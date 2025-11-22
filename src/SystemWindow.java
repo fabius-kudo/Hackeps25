@@ -48,7 +48,7 @@ public class SystemWindow {
 
         // Question 5
         JPanel q5Panel = new JPanel(new FlowLayout(FlowLayout.LEFT));
-        JLabel q5Label = new JLabel("5. How important is nightlife (1-5)?");
+        JLabel q5Label = new JLabel("5. How important is rent (1-5)?");
         JComboBox<Integer> q5Combo = new JComboBox<>(options);
         q5Panel.add(q5Label);
         q5Panel.add(q5Combo);
@@ -63,15 +63,37 @@ public class SystemWindow {
             int safety = (int) q2Combo.getSelectedItem();
             int liveliness = (int) q3Combo.getSelectedItem();
             int nature = (int) q4Combo.getSelectedItem();
-            int nightlife = (int) q5Combo.getSelectedItem();
+            int rent = (int) q5Combo.getSelectedItem();
 
-            // Calculates best neighborhood
-            JOptionPane.showMessageDialog(
-                    frame,
-                    "(Here we would calculate the best neighborhood.)",
-                    "Your Preferences",
-                    JOptionPane.INFORMATION_MESSAGE
-            );
+            UserPreferences userPrefs = new UserPreferences(safety, transport, liveliness, nature, rent);
+
+            FilterManager filterManager = new FilterManager();
+            NeighborhoodScore bestNeighborhood = filterManager.getNeighborhoodData(userPrefs);
+
+            if (bestNeighborhood != null) {
+                String message = "Best neighborhood for you: " + bestNeighborhood.name + "\n" +
+                        "Total Score: " + bestNeighborhood.totalScore + "\n\n" +
+                        "Details:\n" +
+                        "Safety: " + bestNeighborhood.safety + "\n" +
+                        "Public Transport: " + bestNeighborhood.publicTransport + "\n" +
+                        "Liveliness: " + bestNeighborhood.liveliness + "\n" +
+                        "Nature: " + bestNeighborhood.nature + "\n" +
+                        "Rent: " + bestNeighborhood.rent;
+
+                JOptionPane.showMessageDialog(
+                        frame,
+                        message,
+                        "Your Best Neighborhood",
+                        JOptionPane.INFORMATION_MESSAGE
+                );
+            } else {
+                JOptionPane.showMessageDialog(
+                        frame,
+                        "Sorry, couldn't find a suitable neighborhood.",
+                        "No Results",
+                        JOptionPane.ERROR_MESSAGE
+                );
+            }
         });
 
         // Add everything to main panel

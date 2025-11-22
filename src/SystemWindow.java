@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class SystemWindow {
 
-    public static void main(String[] args) {
+    public static void startCode() {
         SwingUtilities.invokeLater(SystemWindow::createUI);
     }
 
@@ -16,7 +16,6 @@ public class SystemWindow {
         JPanel mainPanel = new JPanel();
         mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
 
-        // Dropdown options 1–5
         Integer[] options = {1, 2, 3, 4, 5};
 
         // Question 1
@@ -54,7 +53,7 @@ public class SystemWindow {
         q5Panel.add(q5Label);
         q5Panel.add(q5Combo);
 
-        // OK button (only here we show the final popup)
+        // OK button
         JPanel buttonPanel = new JPanel();
         JButton okButton = new JButton("OK");
         buttonPanel.add(okButton);
@@ -66,7 +65,7 @@ public class SystemWindow {
             int nature = (int) q4Combo.getSelectedItem();
             int nightlife = (int) q5Combo.getSelectedItem();
 
-            // Placeholder: here you would calculate the best neighborhood
+            // Calculates best neighborhood
             JOptionPane.showMessageDialog(
                     frame,
                     "(Here we would calculate the best neighborhood.)",
@@ -85,8 +84,8 @@ public class SystemWindow {
 
         // Add to frame
         frame.setContentPane(mainPanel);
-        frame.pack();              // size window to fit components
-        frame.setLocationRelativeTo(null); // center on screen
+        frame.pack();
+        frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
 }

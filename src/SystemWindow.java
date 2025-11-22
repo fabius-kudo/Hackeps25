@@ -9,7 +9,7 @@ public class SystemWindow {
 
     private static void createUI() {
         // Main window
-        JFrame frame = new JFrame("Neighborhood Recommender");
+        JFrame frame = new JFrame("Neighborhood Finder (L.A. Edition)");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Main vertical panel
@@ -17,6 +17,43 @@ public class SystemWindow {
         mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
 
         Integer[] options = {1, 2, 3, 4, 5};
+
+
+        // Title panel
+        JPanel titlePanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
+        JLabel mainTitle = new JLabel("- Ideal Neighborhood Finder -");
+        mainTitle.setFont(new Font("Serif", Font.BOLD, 20));
+        titlePanel.add(mainTitle);
+
+        // Subtitle panel
+        JPanel subtitlePanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
+        JLabel subtitle = new JLabel("Welcome to Ideal Neighborhood Finder! Answer the following questions to find the neighborhood that best fits you.");
+        subtitle.setFont(new Font("Arial", Font.PLAIN, 12));
+        subtitlePanel.add(subtitle);
+
+        // Add title + subtitle to main panel
+        mainPanel.add(titlePanel);
+        mainPanel.add(subtitlePanel);
+
+        // Key
+        JPanel infoPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
+
+        JLabel infoLabel = new JLabel(
+                "<html>" +
+                        "<div style='margin-left:20px; font-weight:normal;'>" +
+                        "Please consider the following when answering:<br>" +
+                        "1 → A very little amount<br>" +
+                        "2 → A little amount<br>" +
+                        "3 → A moderate amount<br>" +
+                        "4 → A great amount<br>" +
+                        "5 → A very great amount<br>" +
+                        "</div>" +
+                        "</html>"
+        );
+
+        infoPanel.add(infoLabel);
+
+        mainPanel.add(infoPanel);
 
         // Question 1
         JPanel q1Panel = new JPanel(new FlowLayout(FlowLayout.LEFT));
@@ -34,28 +71,30 @@ public class SystemWindow {
 
         // Question 3
         JPanel q3Panel = new JPanel(new FlowLayout(FlowLayout.LEFT));
-        JLabel q3Label = new JLabel("3. Rank how lively you want your neighborhood (1-5)");
+        JLabel q3Label = new JLabel("3. Rank how lively you want your neighborhood to be (1-5).");
         JComboBox<Integer> q3Combo = new JComboBox<>(options);
         q3Panel.add(q3Label);
         q3Panel.add(q3Combo);
 
         // Question 4
         JPanel q4Panel = new JPanel(new FlowLayout(FlowLayout.LEFT));
-        JLabel q4Label = new JLabel("4. How important is being close to nature (1-5)?");
+        JLabel q4Label = new JLabel("4. How important is having access to nature (1-5)?");
         JComboBox<Integer> q4Combo = new JComboBox<>(options);
         q4Panel.add(q4Label);
         q4Panel.add(q4Combo);
 
         // Question 5
         JPanel q5Panel = new JPanel(new FlowLayout(FlowLayout.LEFT));
-        JLabel q5Label = new JLabel("5. How important is rent (1-5)?");
+
+        JLabel q5Label = new JLabel("5. How much are you willing to pay for extra comfort in your home (1-5)?");
+
         JComboBox<Integer> q5Combo = new JComboBox<>(options);
         q5Panel.add(q5Label);
         q5Panel.add(q5Combo);
 
-        // OK button
+        // Search button
         JPanel buttonPanel = new JPanel();
-        JButton okButton = new JButton("OK");
+        JButton okButton = new JButton("Search");
         buttonPanel.add(okButton);
 
         okButton.addActionListener(e -> {
@@ -64,6 +103,7 @@ public class SystemWindow {
             int liveliness = (int) q3Combo.getSelectedItem();
             int nature = (int) q4Combo.getSelectedItem();
             int rent = (int) q5Combo.getSelectedItem();
+
 
             UserPreferences userPrefs = new UserPreferences(safety, transport, liveliness, nature, rent);
 
@@ -94,6 +134,17 @@ public class SystemWindow {
                         JOptionPane.ERROR_MESSAGE
                 );
             }
+
+            ImageIcon starIcon = new ImageIcon("src/world_star-0.png");
+            // Calculates best neighborhood
+            JOptionPane.showMessageDialog(
+                    frame,
+                    "(Here we would calculate the best neighborhood.)",
+                    "Your Preferences",
+                    JOptionPane.INFORMATION_MESSAGE,
+                    starIcon
+            );
+
         });
 
         // Add everything to main panel

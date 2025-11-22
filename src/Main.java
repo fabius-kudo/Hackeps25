@@ -1,6 +1,7 @@
+import javax.swing.*;
+
 public class Main {
     public void main(String[] args) {
-        System.out.println("Hello World!");
+        SystemWindow.startCode();
     }
-
 }

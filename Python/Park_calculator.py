@@ -30,6 +30,8 @@ def main():
 
         park_count = len(parks)
 
+        #add to json file
+
         print(f"found {park_count} parks near {name}\n")
 
 if __name__ == "__main__":

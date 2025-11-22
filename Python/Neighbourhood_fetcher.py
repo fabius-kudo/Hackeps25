@@ -24,7 +24,7 @@ def save_json(data, filename):
 def main():
     # Los Angeles bounding box (south, west, north, east)
     bbox = "33.90,-118.50,34.30,-118.10"
-
+    global  elements
     # Overpass query: nodes, ways, relations with place=suburb|neighbourhood|quarter
     query = f"""
     [out:json];
@@ -53,5 +53,10 @@ def main():
     for name in names[:5]:
         print("-", name)
 
+
+def get_nh_count():
+    return len(elements)
+
 if __name__ == "__main__":
     main()
+

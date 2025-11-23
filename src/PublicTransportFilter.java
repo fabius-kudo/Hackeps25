@@ -9,37 +9,31 @@ class NeighborhoodTransport {
     public int transport;
 }
 
-public class TransportFilter {
+public class PublicTransportFilter {
     public int getScore(String neighborhoodName) {
         try {
             ObjectMapper mapper = new ObjectMapper();
-            List<NeighborhoodTransport> parksList = mapper.readValue(
-                    new File("Python/JSON/publicTransport.json"),
+            List<NeighborhoodTransport> transportList = mapper.readValue(
+                    new File("Python2/JSON/publicTransport.json"),
                     new TypeReference<List<NeighborhoodTransport>>() {}
             );
 
-            for (NeighborhoodTransport np : transportList) {
-                if (np.name.equals(neighborhoodName)) {
-                    if (np.transport <= 1) {
+            for (NeighborhoodTransport nt : transportList) {
+                if (nt.name.equals(neighborhoodName)) {
+                    if (nt.transport <= 1) {
                         return 1;
+                    } else if (nt.transport <= 2) {
+                        return 2;
+                    } else if (nt.transport <= 3) {
+                        return 3;
+                    } else if (nt.transport <= 4) {
+                        return 4;
                     } else {
-                        if (np.transport <= 2) {
-                            return 2;
-                        } else {
-                            if (np.transport <= 3) {
-                                return 3;
-                            } else {
-                                if (np.transport <= 4) {
-                                    return 4;
-                                } else {
-                                    return 5;
-                                }
-                            }
-                        }
+                        return 5;
                     }
                 }
             }
-            return 0;
+            return 0;  // Neighborhood not found
 
         } catch (IOException e) {
             System.err.println("Error reading transport data: " + e.getMessage());

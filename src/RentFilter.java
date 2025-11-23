@@ -9,27 +9,27 @@ class NeighborhoodRent {
     public int rent;
 }
 
-public class NatureFilter {
+public class RentFilter {
     public int getScore(String neighborhoodName) {
         try {
             ObjectMapper mapper = new ObjectMapper();
-            List<NeighborhoodParks> rentList = mapper.readValue(
-                    new File("Python/JSON/rent.json"),
+            List<NeighborhoodRent> rentList = mapper.readValue(
+                    new File("Python2/JSON/rent.json"),
                     new TypeReference<List<NeighborhoodRent>>() {}
             );
 
-            for (NeighborhoodParks np : rentList) {
+            for (NeighborhoodRent np : rentList) {
                 if (np.name.equals(neighborhoodName)) {
-                    if (np.rent >= 30000 ) {
+                    if (np.rent >= 3000 ) {
                         return 1;
                     } else {
-                        if (np.rent >= 20000) {
+                        if (np.rent >= 2000) {
                             return 2;
                         } else {
-                            if (np.rent >= 10000) {
+                            if (np.rent >= 1000) {
                                 return 3;
                             } else {
-                                if (np.rent >= 5000) {
+                                if (np.rent >= 500) {
                                     return 4;
                                 } else {
                                     return 5;

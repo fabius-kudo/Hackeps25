@@ -10,7 +10,7 @@ public class FilterManager {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<String> neighborhoods = mapper.readValue(
-                    new File("neighborhoods.json"),
+                    new File("Python2/JSON/la_neighbourhoods_clean.json"),
                     List.class
             );
             return neighborhoods;

@@ -14,33 +14,27 @@ public class SafetyFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodCrimes> crimesList = mapper.readValue(
-                    new File("Python/JSON/crimes.json"),
+                    new File("Python2/JSON/crimes.json"),
                     new TypeReference<List<NeighborhoodCrimes>>() {}
             );
 
-            for (NeighborhoodCrimes np : crimesList) {
-                if (np.name.equals(neighborhoodName)) {
-                    if (np.crimes <= 60) {
-                        return 1;
+            for (NeighborhoodCrimes nc : crimesList) {
+                if (nc.name.equals(neighborhoodName)) {
+                    // Lower crimes = higher safety score
+                    if (nc.crimes <= 20) {
+                        return 5;  // Very safe
+                    } else if (nc.crimes <= 40) {
+                        return 4;
+                    } else if (nc.crimes <= 60) {
+                        return 3;
+                    } else if (nc.crimes <= 80) {
+                        return 2;
                     } else {
-                        if (np.crimes <= 60) {
-                            return 2;
-                        } else {
-                            if (np.crimes <= 40) {
-                                return 3;
-                            } else {
-                                if (np.crimes <= 20) {
-                                    return 4;
-                                } else {
-                                    return 5;
-                                }
-
-                            }
-
-                        }
+                        return 1;  // Least safe
+                    }
                 }
             }
-            return 0;
+            return 0;  // Neighborhood not found
 
         } catch (IOException e) {
             System.err.println("Error reading safety data: " + e.getMessage());

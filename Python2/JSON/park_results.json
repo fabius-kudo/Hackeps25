@@ -1,0 +1,1320 @@
+{
+    "neighbourhoods": [
+        {
+            "name": "Playa Vista",
+            "lat": 33.9760102,
+            "lon": -118.4181654,
+            "parks": 15
+        },
+        {
+            "name": "The Flats",
+            "lat": 34.076366,
+            "lon": -118.4076933,
+            "parks": 13
+        },
+        {
+            "name": "Civic Center",
+            "lat": 34.0557834,
+            "lon": -118.2449854,
+            "parks": 11
+        },
+        {
+            "name": "Bunker Hill",
+            "lat": 34.0550659,
+            "lon": -118.2512228,
+            "parks": 10
+        },
+        {
+            "name": "University Park",
+            "lat": 34.0271773,
+            "lon": -118.2840429,
+            "parks": 10
+        },
+        {
+            "name": "Venice",
+            "lat": 33.995044,
+            "lon": -118.4668875,
+            "parks": 9
+        },
+        {
+            "name": "Ocean Park",
+            "lat": 34.0022327,
+            "lon": -118.4836879,
+            "parks": 9
+        },
+        {
+            "name": "Watts",
+            "lat": 33.9405897,
+            "lon": -118.2428984,
+            "parks": 9
+        },
+        {
+            "name": "Dayton Avenue",
+            "lat": 34.0838993,
+            "lon": -118.222573,
+            "parks": 9
+        },
+        {
+            "name": "Little Tokyo",
+            "lat": 34.0485055,
+            "lon": -118.2398899,
+            "parks": 9
+        },
+        {
+            "name": "Angeleno Heights",
+            "lat": 34.0702889,
+            "lon": -118.254796,
+            "parks": 9
+        },
+        {
+            "name": "Westwood",
+            "lat": 34.0668947,
+            "lon": -118.439944,
+            "parks": 9
+        },
+        {
+            "name": "Downtown",
+            "lat": 34.047996,
+            "lon": -118.2521002,
+            "parks": 9
+        },
+        {
+            "name": "Historic Core",
+            "lat": 34.0487926,
+            "lon": -118.2499266,
+            "parks": 9
+        },
+        {
+            "name": "Gallery Row",
+            "lat": 34.0465519,
+            "lon": -118.2495584,
+            "parks": 9
+        },
+        {
+            "name": "Toy District",
+            "lat": 34.0465687,
+            "lon": -118.2454288,
+            "parks": 9
+        },
+        {
+            "name": "Venice Canal Historic District",
+            "lat": 33.9841779,
+            "lon": -118.466189,
+            "parks": 8
+        },
+        {
+            "name": "Jewelry District",
+            "lat": 34.0457511,
+            "lon": -118.2544247,
+            "parks": 8
+        },
+        {
+            "name": "San Fernando Mall",
+            "lat": 34.2829912,
+            "lon": -118.4417434,
+            "parks": 8
+        },
+        {
+            "name": "Carthay",
+            "lat": 34.0611213,
+            "lon": -118.3672997,
+            "parks": 7
+        },
+        {
+            "name": "Van Nuys",
+            "lat": 34.1866193,
+            "lon": -118.4486675,
+            "parks": 7
+        },
+        {
+            "name": "South Carthay",
+            "lat": 34.0561214,
+            "lon": -118.3734109,
+            "parks": 7
+        },
+        {
+            "name": "Skid Row",
+            "lat": 34.0440571,
+            "lon": -118.2438507,
+            "parks": 7
+        },
+        {
+            "name": "Valley Glen",
+            "lat": 34.1826379,
+            "lon": -118.4138666,
+            "parks": 7
+        },
+        {
+            "name": "Pueblo de Los \u00c1ngeles",
+            "lat": 34.0566567,
+            "lon": -118.2392537,
+            "parks": 7
+        },
+        {
+            "name": "Downtown Santa Monica",
+            "lat": 34.0157044,
+            "lon": -118.496099,
+            "parks": 7
+        },
+        {
+            "name": "Lincoln Heights",
+            "lat": 34.0726552,
+            "lon": -118.2111954,
+            "parks": 6
+        },
+        {
+            "name": "Cypress Park",
+            "lat": 34.0922322,
+            "lon": -118.224517,
+            "parks": 6
+        },
+        {
+            "name": "Saint James Park",
+            "lat": 34.0311237,
+            "lon": -118.280074,
+            "parks": 6
+        },
+        {
+            "name": "New Chinatown",
+            "lat": 34.0625115,
+            "lon": -118.2389626,
+            "parks": 6
+        },
+        {
+            "name": "Chinatown",
+            "lat": 34.0638402,
+            "lon": -118.2358676,
+            "parks": 6
+        },
+        {
+            "name": "Alla",
+            "lat": 33.9815928,
+            "lon": -118.4296807,
+            "parks": 6
+        },
+        {
+            "name": "Holmby Hills",
+            "lat": 34.0744671,
+            "lon": -118.4300117,
+            "parks": 6
+        },
+        {
+            "name": "Little Ethiopia",
+            "lat": 34.0568295,
+            "lon": -118.3644199,
+            "parks": 6
+        },
+        {
+            "name": "Silver Lake Heights",
+            "lat": 34.0994542,
+            "lon": -118.2564635,
+            "parks": 5
+        },
+        {
+            "name": "North Glendale",
+            "lat": 34.1605626,
+            "lon": -118.264519,
+            "parks": 5
+        },
+        {
+            "name": "Whitley Heights Historic District",
+            "lat": 34.1073786,
+            "lon": -118.3336294,
+            "parks": 5
+        },
+        {
+            "name": "Hollywood",
+            "lat": 34.0980031,
+            "lon": -118.329523,
+            "parks": 5
+        },
+        {
+            "name": "Fox Hills",
+            "lat": 33.9884024,
+            "lon": -118.3933402,
+            "parks": 5
+        },
+        {
+            "name": "Financial District",
+            "lat": 34.0457621,
+            "lon": -118.2593047,
+            "parks": 5
+        },
+        {
+            "name": "Westlake",
+            "lat": 34.0629226,
+            "lon": -118.2728204,
+            "parks": 5
+        },
+        {
+            "name": "Elysian Valley",
+            "lat": 34.0959128,
+            "lon": -118.2420326,
+            "parks": 5
+        },
+        {
+            "name": "Sunkist Park",
+            "lat": 33.9932961,
+            "lon": -118.4004861,
+            "parks": 5
+        },
+        {
+            "name": "Panorama City",
+            "lat": 34.2242902,
+            "lon": -118.4453745,
+            "parks": 4
+        },
+        {
+            "name": "Westwood Village",
+            "lat": 34.0596491,
+            "lon": -118.4446343,
+            "parks": 4
+        },
+        {
+            "name": "Universal City",
+            "lat": 34.1419225,
+            "lon": -118.358411,
+            "parks": 4
+        },
+        {
+            "name": "Adams Square",
+            "lat": 34.1336193,
+            "lon": -118.241185,
+            "parks": 4
+        },
+        {
+            "name": "Koreatown",
+            "lat": 34.0617936,
+            "lon": -118.305447,
+            "parks": 4
+        },
+        {
+            "name": "Playa del Rey",
+            "lat": 33.9541453,
+            "lon": -118.4388067,
+            "parks": 4
+        },
+        {
+            "name": "Dogtown",
+            "lat": 34.0639219,
+            "lon": -118.2305651,
+            "parks": 4
+        },
+        {
+            "name": "Exposition Park",
+            "lat": 34.0183415,
+            "lon": -118.3002033,
+            "parks": 4
+        },
+        {
+            "name": "Old Pasadena",
+            "lat": 34.1458473,
+            "lon": -118.1498123,
+            "parks": 4
+        },
+        {
+            "name": "Alvarado Terrace Historic District",
+            "lat": 34.0451045,
+            "lon": -118.2812397,
+            "parks": 4
+        },
+        {
+            "name": "Castle Heights",
+            "lat": 34.0338481,
+            "lon": -118.3964001,
+            "parks": 4
+        },
+        {
+            "name": "Westside Village",
+            "lat": 34.0274472,
+            "lon": -118.4211471,
+            "parks": 4
+        },
+        {
+            "name": "Westdale",
+            "lat": 34.0222722,
+            "lon": -118.434044,
+            "parks": 4
+        },
+        {
+            "name": "Culver City Arts District",
+            "lat": 34.031372,
+            "lon": -118.3785606,
+            "parks": 4
+        },
+        {
+            "name": "Leimert Park Village",
+            "lat": 34.0042617,
+            "lon": -118.3315129,
+            "parks": 4
+        },
+        {
+            "name": "Century City",
+            "lat": 34.057359,
+            "lon": -118.4146125,
+            "parks": 3
+        },
+        {
+            "name": "Atwater Village",
+            "lat": 34.1186975,
+            "lon": -118.2623924,
+            "parks": 3
+        },
+        {
+            "name": "Sentous",
+            "lat": 34.0256203,
+            "lon": -118.369573,
+            "parks": 3
+        },
+        {
+            "name": "Lake View Terrace",
+            "lat": 34.2763908,
+            "lon": -118.3611912,
+            "parks": 3
+        },
+        {
+            "name": "Hollydale",
+            "lat": 33.916125,
+            "lon": -118.1617005,
+            "parks": 3
+        },
+        {
+            "name": "Boyle Heights",
+            "lat": 34.0436892,
+            "lon": -118.2097684,
+            "parks": 3
+        },
+        {
+            "name": "Highland Park",
+            "lat": 34.1099469,
+            "lon": -118.1969828,
+            "parks": 3
+        },
+        {
+            "name": "Park La Brea",
+            "lat": 34.0674016,
+            "lon": -118.3552363,
+            "parks": 3
+        },
+        {
+            "name": "Leimert Park",
+            "lat": 34.008441,
+            "lon": -118.3314469,
+            "parks": 3
+        },
+        {
+            "name": "Walker",
+            "lat": 33.9812407,
+            "lon": -118.173226,
+            "parks": 3
+        },
+        {
+            "name": "North Hollywood",
+            "lat": 34.1649502,
+            "lon": -118.374752,
+            "parks": 3
+        },
+        {
+            "name": "Silver Lake",
+            "lat": 34.0896518,
+            "lon": -118.269373,
+            "parks": 3
+        },
+        {
+            "name": "View Park-Windsor Hills",
+            "lat": 34.0025923,
+            "lon": -118.3356307,
+            "parks": 3
+        },
+        {
+            "name": "Echo Park",
+            "lat": 34.0779819,
+            "lon": -118.2567824,
+            "parks": 3
+        },
+        {
+            "name": "South Park",
+            "lat": 34.0404069,
+            "lon": -118.2665377,
+            "parks": 3
+        },
+        {
+            "name": "Rancho San Rafael",
+            "lat": 34.1659244,
+            "lon": -118.2175955,
+            "parks": 3
+        },
+        {
+            "name": "Del Rey",
+            "lat": 33.9896527,
+            "lon": -118.4243437,
+            "parks": 3
+        },
+        {
+            "name": "Larchmont",
+            "lat": 34.0798375,
+            "lon": -118.3178702,
+            "parks": 3
+        },
+        {
+            "name": "Historic South-Central",
+            "lat": 34.0162304,
+            "lon": -118.2673085,
+            "parks": 3
+        },
+        {
+            "name": "Central-Alameda",
+            "lat": 34.004015,
+            "lon": -118.2477844,
+            "parks": 3
+        },
+        {
+            "name": "Harvard Heights",
+            "lat": 34.0471105,
+            "lon": -118.3054828,
+            "parks": 3
+        },
+        {
+            "name": "Corterra",
+            "lat": 34.2433098,
+            "lon": -118.454937,
+            "parks": 3
+        },
+        {
+            "name": "Village Green",
+            "lat": 34.2936139,
+            "lon": -118.4491444,
+            "parks": 3
+        },
+        {
+            "name": "Tehrangeles",
+            "lat": 34.055292,
+            "lon": -118.4417931,
+            "parks": 3
+        },
+        {
+            "name": "California Country Club Estates",
+            "lat": 34.0350944,
+            "lon": -118.4046927,
+            "parks": 3
+        },
+        {
+            "name": "Virgil Village",
+            "lat": 34.0861835,
+            "lon": -118.2875682,
+            "parks": 3
+        },
+        {
+            "name": "Little Bangladesh",
+            "lat": 34.0690466,
+            "lon": -118.2954277,
+            "parks": 3
+        },
+        {
+            "name": "Hayden Tract",
+            "lat": 34.0241981,
+            "lon": -118.3802604,
+            "parks": 3
+        },
+        {
+            "name": "Marina del Rey",
+            "lat": 33.9776848,
+            "lon": -118.448647,
+            "parks": 2
+        },
+        {
+            "name": "La Crescenta",
+            "lat": 34.230429,
+            "lon": -118.2350733,
+            "parks": 2
+        },
+        {
+            "name": "Tujunga",
+            "lat": 34.252225,
+            "lon": -118.2884105,
+            "parks": 2
+        },
+        {
+            "name": "Jefferson Park",
+            "lat": 34.0296173,
+            "lon": -118.3224597,
+            "parks": 2
+        },
+        {
+            "name": "Stonehurst",
+            "lat": 34.251114,
+            "lon": -118.3703581,
+            "parks": 2
+        },
+        {
+            "name": "Westgate Heights",
+            "lat": 34.0663976,
+            "lon": -118.4731361,
+            "parks": 2
+        },
+        {
+            "name": "Bandini",
+            "lat": 34.00668,
+            "lon": -118.1678487,
+            "parks": 2
+        },
+        {
+            "name": "Willowbrook",
+            "lat": 33.9204209,
+            "lon": -118.2418543,
+            "parks": 2
+        },
+        {
+            "name": "Raymer",
+            "lat": 34.2147263,
+            "lon": -118.4653611,
+            "parks": 2
+        },
+        {
+            "name": "Morningside Park",
+            "lat": 33.9597361,
+            "lon": -118.326463,
+            "parks": 2
+        },
+        {
+            "name": "Country Club Park",
+            "lat": 34.050289,
+            "lon": -118.3211871,
+            "parks": 2
+        },
+        {
+            "name": "Del Aire",
+            "lat": 33.9177572,
+            "lon": -118.3708478,
+            "parks": 2
+        },
+        {
+            "name": "Omaha Heights",
+            "lat": 34.0813991,
+            "lon": -118.1884055,
+            "parks": 2
+        },
+        {
+            "name": "Montrose",
+            "lat": 34.2064181,
+            "lon": -118.2288887,
+            "parks": 2
+        },
+        {
+            "name": "Nevin",
+            "lat": 34.0141804,
+            "lon": -118.2461846,
+            "parks": 2
+        },
+        {
+            "name": "Brentwood",
+            "lat": 34.0521403,
+            "lon": -118.4740699,
+            "parks": 2
+        },
+        {
+            "name": "Sparr Heights",
+            "lat": 34.1958386,
+            "lon": -118.2259077,
+            "parks": 2
+        },
+        {
+            "name": "Ladera Heights",
+            "lat": 33.9879488,
+            "lon": -118.369798,
+            "parks": 2
+        },
+        {
+            "name": "Brentwood Heights",
+            "lat": 34.0636199,
+            "lon": -118.4748028,
+            "parks": 2
+        },
+        {
+            "name": "Lennox",
+            "lat": 33.9390306,
+            "lon": -118.3574427,
+            "parks": 2
+        },
+        {
+            "name": "Studio City",
+            "lat": 34.1483989,
+            "lon": -118.3961877,
+            "parks": 2
+        },
+        {
+            "name": "Glassell Park",
+            "lat": 34.1161201,
+            "lon": -118.2289627,
+            "parks": 2
+        },
+        {
+            "name": "Windsor Hills",
+            "lat": 33.9869591,
+            "lon": -118.3541212,
+            "parks": 2
+        },
+        {
+            "name": "Walnut Park",
+            "lat": 33.9692761,
+            "lon": -118.2239906,
+            "parks": 2
+        },
+        {
+            "name": "Little Armenia",
+            "lat": 34.0981716,
+            "lon": -118.3044966,
+            "parks": 2
+        },
+        {
+            "name": "Sunset Junction",
+            "lat": 34.0926493,
+            "lon": -118.280795,
+            "parks": 2
+        },
+        {
+            "name": "Arts District",
+            "lat": 34.0412389,
+            "lon": -118.2344503,
+            "parks": 2
+        },
+        {
+            "name": "Madison Heights",
+            "lat": 34.132798,
+            "lon": -118.1414869,
+            "parks": 2
+        },
+        {
+            "name": "Orange Heights",
+            "lat": 34.1622749,
+            "lon": -118.1395252,
+            "parks": 2
+        },
+        {
+            "name": "Washington Square",
+            "lat": 34.1654305,
+            "lon": -118.1347738,
+            "parks": 2
+        },
+        {
+            "name": "Normandie Heights",
+            "lat": 34.1700455,
+            "lon": -118.1395588,
+            "parks": 2
+        },
+        {
+            "name": "Beverlywood",
+            "lat": 34.0459334,
+            "lon": -118.39492,
+            "parks": 2
+        },
+        {
+            "name": "Glendale City Center",
+            "lat": 34.1538013,
+            "lon": -118.2550389,
+            "parks": 2
+        },
+        {
+            "name": "Thai Town",
+            "lat": 34.1018533,
+            "lon": -118.3048616,
+            "parks": 2
+        },
+        {
+            "name": "Bicycle District",
+            "lat": 34.0837112,
+            "lon": -118.2949577,
+            "parks": 2
+        },
+        {
+            "name": "Victoria Park",
+            "lat": 34.0466887,
+            "lon": -118.3307729,
+            "parks": 2
+        },
+        {
+            "name": "Green Meadows",
+            "lat": 33.9409877,
+            "lon": -118.2629968,
+            "parks": 2
+        },
+        {
+            "name": "Gramercy Park",
+            "lat": 33.9511938,
+            "lon": -118.3093275,
+            "parks": 2
+        },
+        {
+            "name": "Manchester Square",
+            "lat": 33.966374,
+            "lon": -118.3133775,
+            "parks": 2
+        },
+        {
+            "name": "Cheviot Hills",
+            "lat": 34.0405878,
+            "lon": -118.4098875,
+            "parks": 2
+        },
+        {
+            "name": "East Hollywood",
+            "lat": 34.0904277,
+            "lon": -118.2966254,
+            "parks": 2
+        },
+        {
+            "name": "Adams-Normandie",
+            "lat": 34.0317877,
+            "lon": -118.3002466,
+            "parks": 2
+        },
+        {
+            "name": "Vermont Square",
+            "lat": 34.0019449,
+            "lon": -118.3002125,
+            "parks": 2
+        },
+        {
+            "name": "South Park",
+            "lat": 33.9959381,
+            "lon": -118.2697608,
+            "parks": 2
+        },
+        {
+            "name": "Vermont-Slauson",
+            "lat": 33.9836914,
+            "lon": -118.2915417,
+            "parks": 2
+        },
+        {
+            "name": "Chesterfield Square",
+            "lat": 33.9834737,
+            "lon": -118.3136513,
+            "parks": 2
+        },
+        {
+            "name": "Montecito Heights",
+            "lat": 34.0895404,
+            "lon": -118.1942792,
+            "parks": 2
+        },
+        {
+            "name": "Pico-Union",
+            "lat": 34.0465669,
+            "lon": -118.2878942,
+            "parks": 2
+        },
+        {
+            "name": "Arlington Heights",
+            "lat": 34.0434937,
+            "lon": -118.3213735,
+            "parks": 2
+        },
+        {
+            "name": "Miracle Mile",
+            "lat": 34.0624027,
+            "lon": -118.3515073,
+            "parks": 2
+        },
+        {
+            "name": "Downtown Culver City",
+            "lat": 34.0238639,
+            "lon": -118.3944702,
+            "parks": 2
+        },
+        {
+            "name": "Reynier Village",
+            "lat": 34.0361621,
+            "lon": -118.3861663,
+            "parks": 2
+        },
+        {
+            "name": "Brentwood Glen",
+            "lat": 34.0666691,
+            "lon": -118.4630509,
+            "parks": 2
+        },
+        {
+            "name": "Historic Filipinotown",
+            "lat": 34.0704358,
+            "lon": -118.2724143,
+            "parks": 2
+        },
+        {
+            "name": "Lair Port",
+            "lat": 33.923885,
+            "lon": -118.3786589,
+            "parks": 2
+        },
+        {
+            "name": "Brentwood Village",
+            "lat": 34.0647246,
+            "lon": -118.4700986,
+            "parks": 2
+        },
+        {
+            "name": "Wildasin",
+            "lat": 33.9892608,
+            "lon": -118.2992618,
+            "parks": 1
+        },
+        {
+            "name": "El Sereno",
+            "lat": 34.0811213,
+            "lon": -118.1778495,
+            "parks": 1
+        },
+        {
+            "name": "Van Ness",
+            "lat": 33.9830173,
+            "lon": -118.3196032,
+            "parks": 1
+        },
+        {
+            "name": "Athens",
+            "lat": 33.920407,
+            "lon": -118.279049,
+            "parks": 1
+        },
+        {
+            "name": "Newton Park",
+            "lat": 34.0908431,
+            "lon": -118.1792385,
+            "parks": 1
+        },
+        {
+            "name": "Westchester",
+            "lat": 33.9597349,
+            "lon": -118.400632,
+            "parks": 1
+        },
+        {
+            "name": "Eagle Rock",
+            "lat": 34.1390325,
+            "lon": -118.2140958,
+            "parks": 1
+        },
+        {
+            "name": "City Terrace",
+            "lat": 34.0500116,
+            "lon": -118.1828495,
+            "parks": 1
+        },
+        {
+            "name": "Village Green",
+            "lat": 34.0198711,
+            "lon": -118.360664,
+            "parks": 1
+        },
+        {
+            "name": "West Athens",
+            "lat": 33.924006,
+            "lon": -118.3002792,
+            "parks": 1
+        },
+        {
+            "name": "Mount Washington",
+            "lat": 34.0988396,
+            "lon": -118.2211069,
+            "parks": 1
+        },
+        {
+            "name": "Sunland",
+            "lat": 34.2669466,
+            "lon": -118.3023,
+            "parks": 1
+        },
+        {
+            "name": "Baird Park",
+            "lat": 34.0869544,
+            "lon": -118.1811831,
+            "parks": 1
+        },
+        {
+            "name": "Oak Knoll",
+            "lat": 34.1244525,
+            "lon": -118.1359039,
+            "parks": 1
+        },
+        {
+            "name": "Rose Hill",
+            "lat": 34.0819547,
+            "lon": -118.1967391,
+            "parks": 1
+        },
+        {
+            "name": "Sawtelle",
+            "lat": 34.039893,
+            "lon": -118.4507991,
+            "parks": 1
+        },
+        {
+            "name": "Wilton Historic District",
+            "lat": 34.0722326,
+            "lon": -118.3142427,
+            "parks": 1
+        },
+        {
+            "name": "Culver Garden",
+            "lat": 33.9938124,
+            "lon": -118.4280374,
+            "parks": 1
+        },
+        {
+            "name": "Jefferson",
+            "lat": 34.0177372,
+            "lon": -118.2716002,
+            "parks": 1
+        },
+        {
+            "name": "West Glendale",
+            "lat": 34.1477457,
+            "lon": -118.2740536,
+            "parks": 1
+        },
+        {
+            "name": "North Hills",
+            "lat": 34.2429575,
+            "lon": -118.4854081,
+            "parks": 1
+        },
+        {
+            "name": "Bungalow Heaven",
+            "lat": 34.1612451,
+            "lon": -118.127187,
+            "parks": 1
+        },
+        {
+            "name": "Craftsman Heights",
+            "lat": 34.166637,
+            "lon": -118.1394314,
+            "parks": 1
+        },
+        {
+            "name": "Emerald Isle",
+            "lat": 34.1824373,
+            "lon": -118.2076908,
+            "parks": 1
+        },
+        {
+            "name": "Beachwood Canyon",
+            "lat": 34.1222919,
+            "lon": -118.3213845,
+            "parks": 1
+        },
+        {
+            "name": "West Los Angeles",
+            "lat": 34.0468546,
+            "lon": -118.430254,
+            "parks": 1
+        },
+        {
+            "name": "Rancho Park",
+            "lat": 34.0341731,
+            "lon": -118.4262057,
+            "parks": 1
+        },
+        {
+            "name": "Palms",
+            "lat": 34.0247328,
+            "lon": -118.4116152,
+            "parks": 1
+        },
+        {
+            "name": "Pico-Robertson",
+            "lat": 34.053269,
+            "lon": -118.3869832,
+            "parks": 1
+        },
+        {
+            "name": "West Adams",
+            "lat": 34.0294356,
+            "lon": -118.3524833,
+            "parks": 1
+        },
+        {
+            "name": "Windsor Square",
+            "lat": 34.0689734,
+            "lon": -118.319988,
+            "parks": 1
+        },
+        {
+            "name": "Fairfax",
+            "lat": 34.0791555,
+            "lon": -118.3522844,
+            "parks": 1
+        },
+        {
+            "name": "Harvard Park",
+            "lat": 33.9839471,
+            "lon": -118.3046228,
+            "parks": 1
+        },
+        {
+            "name": "Florence",
+            "lat": 33.9747477,
+            "lon": -118.2695842,
+            "parks": 1
+        },
+        {
+            "name": "Florence-Firestone",
+            "lat": 33.9674263,
+            "lon": -118.2433068,
+            "parks": 1
+        },
+        {
+            "name": "Mid-City",
+            "lat": 34.0415271,
+            "lon": -118.3603703,
+            "parks": 1
+        },
+        {
+            "name": "Mid-Wilshire",
+            "lat": 34.0568616,
+            "lon": -118.3458032,
+            "parks": 1
+        },
+        {
+            "name": "Los Feliz",
+            "lat": 34.1076561,
+            "lon": -118.2875062,
+            "parks": 1
+        },
+        {
+            "name": "Toluca Lake",
+            "lat": 34.1521688,
+            "lon": -118.357141,
+            "parks": 1
+        },
+        {
+            "name": "Sherman Village",
+            "lat": 34.1575832,
+            "lon": -118.4138403,
+            "parks": 1
+        },
+        {
+            "name": "North Hills East",
+            "lat": 34.2355447,
+            "lon": -118.4676065,
+            "parks": 1
+        },
+        {
+            "name": "Carey Ranch",
+            "lat": 34.290742,
+            "lon": -118.46227,
+            "parks": 1
+        },
+        {
+            "name": "El Merrie Del",
+            "lat": 34.2951205,
+            "lon": -118.3782164,
+            "parks": 1
+        },
+        {
+            "name": "San Fernando Gardens",
+            "lat": 34.2676932,
+            "lon": -118.4160894,
+            "parks": 1
+        },
+        {
+            "name": "Shadow Hills",
+            "lat": 34.2619469,
+            "lon": -118.3517463,
+            "parks": 0
+        },
+        {
+            "name": "Mission Hills",
+            "lat": 34.2572249,
+            "lon": -118.4670285,
+            "parks": 0
+        },
+        {
+            "name": "Westmont",
+            "lat": 33.9414035,
+            "lon": -118.3022963,
+            "parks": 0
+        },
+        {
+            "name": "Garnsey",
+            "lat": 34.1687712,
+            "lon": -118.402216,
+            "parks": 0
+        },
+        {
+            "name": "Trousdale Estates",
+            "lat": 34.1050082,
+            "lon": -118.3953567,
+            "parks": 0
+        },
+        {
+            "name": "Hancock Park",
+            "lat": 34.0736782,
+            "lon": -118.335055,
+            "parks": 0
+        },
+        {
+            "name": "Sherman Oaks",
+            "lat": 34.1508718,
+            "lon": -118.448986,
+            "parks": 0
+        },
+        {
+            "name": "Brentwood Park",
+            "lat": 34.0550089,
+            "lon": -118.4881363,
+            "parks": 0
+        },
+        {
+            "name": "Sun Valley",
+            "lat": 34.2204227,
+            "lon": -118.3878945,
+            "parks": 0
+        },
+        {
+            "name": "Mar Vista",
+            "lat": 34.0037605,
+            "lon": -118.4391641,
+            "parks": 0
+        },
+        {
+            "name": "Pacoima",
+            "lat": 34.2625025,
+            "lon": -118.427027,
+            "parks": 0
+        },
+        {
+            "name": "Bel Air",
+            "lat": 34.0827278,
+            "lon": -118.4479802,
+            "parks": 0
+        },
+        {
+            "name": "East Los Angeles",
+            "lat": 34.0239015,
+            "lon": -118.172015,
+            "parks": 0
+        },
+        {
+            "name": "Hewitt",
+            "lat": 34.199727,
+            "lon": -118.3900804,
+            "parks": 0
+        },
+        {
+            "name": "Hyde Park",
+            "lat": 33.9854024,
+            "lon": -118.330861,
+            "parks": 0
+        },
+        {
+            "name": "Beverly Glen",
+            "lat": 34.1077855,
+            "lon": -118.4456361,
+            "parks": 0
+        },
+        {
+            "name": "Valley Village",
+            "lat": 34.1637147,
+            "lon": -118.3965758,
+            "parks": 0
+        },
+        {
+            "name": "Hollywood Hills",
+            "lat": 34.1216903,
+            "lon": -118.3465777,
+            "parks": 0
+        },
+        {
+            "name": "San Pasqual",
+            "lat": 34.1391544,
+            "lon": -118.1024418,
+            "parks": 0
+        },
+        {
+            "name": "Fashion District",
+            "lat": 34.0335453,
+            "lon": -118.2565141,
+            "parks": 0
+        },
+        {
+            "name": "Arleta",
+            "lat": 34.2413266,
+            "lon": -118.4322047,
+            "parks": 0
+        },
+        {
+            "name": "Baldwin Hills",
+            "lat": 34.0146113,
+            "lon": -118.3603104,
+            "parks": 0
+        },
+        {
+            "name": "Broadway-Manchester",
+            "lat": 33.9410149,
+            "lon": -118.2744036,
+            "parks": 0
+        },
+        {
+            "name": "Vermont Vista",
+            "lat": 33.9419475,
+            "lon": -118.2858138,
+            "parks": 0
+        },
+        {
+            "name": "Vermont Knolls",
+            "lat": 33.9668188,
+            "lon": -118.29167,
+            "parks": 0
+        },
+        {
+            "name": "Beverly Grove",
+            "lat": 34.0760338,
+            "lon": -118.369972,
+            "parks": 0
+        },
+        {
+            "name": "Beverly Crest",
+            "lat": 34.1167701,
+            "lon": -118.4322607,
+            "parks": 0
+        },
+        {
+            "name": "Hollywood Hills West",
+            "lat": 34.1104847,
+            "lon": -118.3733879,
+            "parks": 0
+        },
+        {
+            "name": "Sawtelle Japantown",
+            "lat": 34.0395703,
+            "lon": -118.4424952,
+            "parks": 0
+        },
+        {
+            "name": "Crenshaw",
+            "lat": 34.0175084,
+            "lon": -118.3396649,
+            "parks": 0
+        }
+    ],
+    "top3": [
+        {
+            "name": "Playa Vista",
+            "lat": 33.9760102,
+            "lon": -118.4181654,
+            "parks": 15
+        },
+        {
+            "name": "The Flats",
+            "lat": 34.076366,
+            "lon": -118.4076933,
+            "parks": 13
+        },
+        {
+            "name": "Civic Center",
+            "lat": 34.0557834,
+            "lon": -118.2449854,
+            "parks": 11
+        }
+    ]
+}

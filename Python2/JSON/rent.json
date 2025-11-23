@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "Irwindale",
+    "rent": 2946
+  },
+  {
+    "name": "Pico-Union",
+    "rent": 1554
+  },
+  {
+    "name": "Glendora",
+    "rent": 2063
+  },
+  {
+    "name": "Industry",
+    "rent": 2679
+  },
+  {
+    "name": "Sylmar",
+    "rent": 2241
+  },
+  {
+    "name": "Torrance",
+    "rent": 2394
+  },
+  {
+    "name": "Alhambra",
+    "rent": 2013
+  },
+  {
+    "name": "Pico Rivera",
+    "rent": 1919
+  },
+  {
+    "name": "Rolling Hills Estates",
+    "rent": 3500
+  },
+  {
+    "name": "Signal Hill",
+    "rent": 1814
+  },
+  {
+    "name": "Hawthorne",
+    "rent": 1770
+  },
+  {
+    "name": "North Hills",
+    "rent": 2122
+  },
+  {
+    "name": "Hacienda Heights",
+    "rent": 2059
+  },
+  {
+    "name": "Harbor Gateway",
+    "rent": 2524
+  },
+  {
+    "name": "Lopez/Kagel Canyons",
+    "rent": ""
+  },
+  {
+    "name": "Citrus",
+    "rent": 2067
+  },
+  {
+    "name": "Lake Balboa",
+    "rent": 2959
+  },
+  {
+    "name": "Granada Hills",
+    "rent": 1986
+  },
+  {
+    "name": "Palms",
+    "rent": 2424
+  },
+  {
+    "name": "Santa Monica",
+    "rent": 2953
+  },
+  {
+    "name": "Pacoima",
+    "rent": 2102
+  },
+  {
+    "name": "Toluca Lake",
+    "rent": 2772
+  },
+  {
+    "name": "Veterans Administration",
+    "rent": 2143
+  },
+  {
+    "name": "Valley Village",
+    "rent": 2261
+  },
+  {
+    "name": "Brentwood",
+    "rent": 2990
+  },
+  {
+    "name": "Pomona",
+    "rent": 2263
+  },
+  {
+    "name": "South Whittier",
+    "rent": 1956
+  },
+  {
+    "name": "Pasadena",
+    "rent": 2400
+  },
+  {
+    "name": "Winnetka",
+    "rent": 2165
+  },
+  {
+    "name": "Palmdale",
+    "rent": 1789
+  },
+  {
+    "name": "Porter Ranch",
+    "rent": 3436
+  },
+  {
+    "name": "South El Monte",
+    "rent": 2080
+  },
+  {
+    "name": "Tujunga Canyons",
+    "rent": 3500
+  },
+  {
+    "name": "Commerce",
+    "rent": 2301
+  },
+  {
+    "name": "San Fernando",
+    "rent": 1883
+  },
+  {
+    "name": "Sherman Oaks",
+    "rent": 2445
+  },
+  {
+    "name": "Bradbury",
+    "rent": 2103
+  },
+  {
+    "name": "Panorama City",
+    "rent": 1767
+  },
+  {
+    "name": "Northridge",
+    "rent": 2316
+  },
+  {
+    "name": "Culver City",
+    "rent": 3038
+  },
+  {
+    "name": "Lakewood",
+    "rent": 2544
+  },
+  {
+    "name": "Compton",
+    "rent": 1701
+  },
+  {
+    "name": "Vernon",
+    "rent": ""
+  },
+  {
+    "name": "San Dimas",
+    "rent": 2434
+  },
+  {
+    "name": "Inglewood",
+    "rent": 1845
+  },
+  {
+    "name": "Charter Oak",
+    "rent": 1811
+  },
+  {
+    "name": "Paramount",
+    "rent": 2127
+  },
+  {
+    "name": "San Pedro",
+    "rent": 2152
+  },
+  {
+    "name": "Lincoln Heights",
+    "rent": 1780
+  },
+  {
+    "name": "Boyle Heights",
+    "rent": 1743
+  },
+  {
+    "name": "Historic South-Central",
+    "rent": 1482
+  },
+  {
+    "name": "Avalon",
+    "rent": ""
+  },
+  {
+    "name": "Westlake",
+    "rent": 1822
+  },
+  {
+    "name": "Mission Hills",
+    "rent": 2408
+  },
+  {
+    "name": "Quartz Hill",
+    "rent": 3435
+  },
+  {
+    "name": "Marina del Rey",
+    "rent": 3500
+  },
+  {
+    "name": "Bell",
+    "rent": 1796
+  },
+  {
+    "name": "Long Beach",
+    "rent": 2021
+  },
+  {
+    "name": "San Gabriel",
+    "rent": 2013
+  },
+  {
+    "name": "Downey",
+    "rent": 1980
+  },
+  {
+    "name": "Diamond Bar",
+    "rent": 2751
+  },
+  {
+    "name": "La Canada Flintridge",
+    "rent": 2325
+  },
+  {
+    "name": "West Covina",
+    "rent": 2214
+  },
+  {
+    "name": "Redondo Beach",
+    "rent": 2835
+  },
+  {
+    "name": "Vermont Square",
+    "rent": 1805
+  },
+  {
+    "name": "Santa Fe Springs",
+    "rent": 1958
+  },
+  {
+    "name": "Calabasas",
+    "rent": 3108
+  },
+  {
+    "name": "Altadena",
+    "rent": 3068
+  },
+  {
+    "name": "Bell Gardens",
+    "rent": 1532
+  },
+  {
+    "name": "Sun Valley",
+    "rent": 1863
+  },
+  {
+    "name": "Playa Vista",
+    "rent": 3374
+  },
+  {
+    "name": "Carson",
+    "rent": 3088
+  },
+  {
+    "name": "Hollywood Hills",
+    "rent": 2510
+  },
+  {
+    "name": "Lancaster",
+    "rent": 2009
+  },
+  {
+    "name": "Leona Valley",
+    "rent": ""
+  },
+  {
+    "name": "Whittier",
+    "rent": 1901
+  },
+  {
+    "name": "Walnut",
+    "rent": 3014
+  },
+  {
+    "name": "Castaic Canyons",
+    "rent": 2552
+  },
+  {
+    "name": "Silver Lake",
+    "rent": 2501
+  },
+  {
+    "name": "Whittier Narrows",
+    "rent": ""
+  },
+  {
+    "name": "Glendale",
+    "rent": 2316
+  },
+  {
+    "name": "West Whittier-Los Nietos",
+    "rent": 2262
+  },
+  {
+    "name": "Atwater Village",
+    "rent": 2456
+  },
+  {
+    "name": "East Whittier",
+    "rent": 1545
+  },
+  {
+    "name": "El Sereno",
+    "rent": 1766
+  },
+  {
+    "name": "Montecito Heights",
+    "rent": 2010
+  },
+  {
+    "name": "Florence",
+    "rent": 1891
+  },
+  {
+    "name": "Huntington Park",
+    "rent": 1833
+  },
+  {
+    "name": "Cheviot Hills",
+    "rent": 1997
+  },
+  {
+    "name": "Cypress Park",
+    "rent": 1783
+  },
+  {
+    "name": "Desert View Highlands",
+    "rent": 2461
+  },
+  {
+    "name": "Baldwin Park",
+    "rent": 2589
+  },
+  {
+    "name": "Montebello",
+    "rent": 1958
+  },
+  {
+    "name": "Leimert Park",
+    "rent": 2161
+  },
+  {
+    "name": "Santa Clarita",
+    "rent": 2686
+  },
+  {
+    "name": "Elysian Park",
+    "rent": 2509
+  },
+  {
+    "name": "Wilmington",
+    "rent": 1637
+  },
+  {
+    "name": "Jefferson Park",
+    "rent": 1614
+  },
+  {
+    "name": "Downtown",
+    "rent": 2384
+  },
+  {
+    "name": "Encino",
+    "rent": 2212
+  },
+  {
+    "name": "West Adams",
+    "rent": 2728
+  },
+  {
+    "name": "Hawaiian Gardens",
+    "rent": 1896
+  },
+  {
+    "name": "Agoura Hills",
+    "rent": 3383
+  },
+  {
+    "name": "Baldwin Hills/Crenshaw",
+    "rent": 2101
+  },
+  {
+    "name": "Lake View Terrace",
+    "rent": 2767
+  },
+  {
+    "name": "Adams-Normandie",
+    "rent": 1684
+  },
+  {
+    "name": "El Monte",
+    "rent": 1791
+  },
+  {
+    "name": "Rancho Dominguez",
+    "rent": ""
+  },
+  {
+    "name": "Acton",
+    "rent": ""
+  },
+  {
+    "name": "Studio City",
+    "rent": 2752
+  },
+  {
+    "name": "La Puente",
+    "rent": 2507
+  },
+  {
+    "name": "North Hollywood",
+    "rent": 2258
+  },
+  {
+    "name": "Rosemead",
+    "rent": 1820
+  },
+  {
+    "name": "San Marino",
+    "rent": 3120
+  },
+  {
+    "name": "East San Gabriel",
+    "rent": 2238
+  },
+  {
+    "name": "South Park",
+    "rent": 2184
+  },
+  {
+    "name": "Burbank",
+    "rent": 2282
+  },
+  {
+    "name": "Woodland Hills",
+    "rent": 2737
+  },
+  {
+    "name": "Angeles Crest",
+    "rent": ""
+  },
+  {
+    "name": "East Compton",
+    "rent": 1410
+  },
+  {
+    "name": "Chatsworth",
+    "rent": 2458
+  },
+  {
+    "name": "Mayflower Village",
+    "rent": 2967
+  },
+  {
+    "name": "Koreatown",
+    "rent": 1932
+  },
+  {
+    "name": "South Gate",
+    "rent": 1656
+  },
+  {
+    "name": "Elysian Valley",
+    "rent": 3088
+  },
+  {
+    "name": "Claremont",
+    "rent": 2229
+  },
+  {
+    "name": "Avocado Heights",
+    "rent": ""
+  },
+  {
+    "name": "South San Gabriel",
+    "rent": 2234
+  },
+  {
+    "name": "Northwest Antelope Valley",
+    "rent": 1896
+  },
+  {
+    "name": "Echo Park",
+    "rent": 2237
+  },
+  {
+    "name": "Lynwood",
+    "rent": 1804
+  },
+  {
+    "name": "Unincorporated Santa Susana Mountains",
+    "rent": 2754
+  },
+  {
+    "name": "Shadow Hills",
+    "rent": 2804
+  },
+  {
+    "name": "La Habra Heights",
+    "rent": ""
+  },
+  {
+    "name": "Covina",
+    "rent": 2112
+  },
+  {
+    "name": "Northwest Palmdale",
+    "rent": 1714
+  },
+  {
+    "name": "Sawtelle",
+    "rent": 2638
+  },
+  {
+    "name": "Rancho Park",
+    "rent": 2648
+  },
+  {
+    "name": "East Los Angeles",
+    "rent": 2197
+  },
+  {
+    "name": "Beverlywood",
+    "rent": 2876
+  },
+  {
+    "name": "Bellflower",
+    "rent": 1952
+  },
+  {
+    "name": "Azusa",
+    "rent": 1843
+  },
+  {
+    "name": "Del Rey",
+    "rent": 2466
+  },
+  {
+    "name": "Mid-Wilshire",
+    "rent": 2675
+  },
+  {
+    "name": "North Whittier",
+    "rent": ""
+  },
+  {
+    "name": "Beverly Crest",
+    "rent": 2333
+  },
+  {
+    "name": "Cerritos",
+    "rent": 3156
+  },
+  {
+    "name": "West Hills",
+    "rent": 3132
+  },
+  {
+    "name": "Vincent",
+    "rent": 1781
+  },
+  {
+    "name": "Sun Village",
+    "rent": ""
+  },
+  {
+    "name": "Playa del Rey",
+    "rent": 2827
+  },
+  {
+    "name": "Valinda",
+    "rent": 3122
+  },
+  {
+    "name": "Tujunga",
+    "rent": 1875
+  },
+  {
+    "name": "Exposition Park",
+    "rent": 2056
+  },
+  {
+    "name": "Eagle Rock",
+    "rent": 2311
+  },
+  {
+    "name": "Harbor City",
+    "rent": 2860
+  },
+  {
+    "name": "Southeast Antelope Valley",
+    "rent": 2461
+  },
+  {
+    "name": "Reseda",
+    "rent": 2047
+  },
+  {
+    "name": "Willowbrook",
+    "rent": 1295
+  },
+  {
+    "name": "Highland Park",
+    "rent": 2387
+  },
+  {
+    "name": "Temple City",
+    "rent": 2552
+  },
+  {
+    "name": "Westlake Village",
+    "rent": 3500
+  },
+  {
+    "name": "Pico-Robertson",
+    "rent": 2581
+  },
+  {
+    "name": "Monrovia",
+    "rent": 2316
+  },
+  {
+    "name": "Broadway-Manchester",
+    "rent": 1831
+  },
+  {
+    "name": "Sunland",
+    "rent": 1691
+  },
+  {
+    "name": "Agua Dulce",
+    "rent": ""
+  },
+  {
+    "name": "Malibu",
+    "rent": 3500
+  },
+  {
+    "name": "Topanga",
+    "rent": 2275
+  },
+  {
+    "name": "Northeast Antelope Valley",
+    "rent": ""
+  },
+  {
+    "name": "Arleta",
+    "rent": 1984
+  },
+  {
+    "name": "Van Nuys",
+    "rent": 1977
+  },
+  {
+    "name": "Mar Vista",
+    "rent": 2412
+  },
+  {
+    "name": "Valley Glen",
+    "rent": 2249
+  },
+  {
+    "name": "Arcadia",
+    "rent": 2091
+  },
+  {
+    "name": "Windsor Square",
+    "rent": 3011
+  },
+  {
+    "name": "West Puente Valley",
+    "rent": ""
+  },
+  {
+    "name": "Central-Alameda",
+    "rent": 2368
+  },
+  {
+    "name": "Arlington Heights",
+    "rent": 1928
+  },
+  {
+    "name": "Harvard Heights",
+    "rent": 1826
+  },
+  {
+    "name": "Harvard Park",
+    "rent": 2215
+  },
+  {
+    "name": "East Hollywood",
+    "rent": 1846
+  },
+  {
+    "name": "Lennox",
+    "rent": 2129
+  },
+  {
+    "name": "Larchmont",
+    "rent": 2632
+  },
+  {
+    "name": "Tarzana",
+    "rent": 2514
+  },
+  {
+    "name": "Rolling Hills",
+    "rent": 3500
+  },
+  {
+    "name": "Mid-City",
+    "rent": 2339
+  },
+  {
+    "name": "Westchester",
+    "rent": 2806
+  },
+  {
+    "name": "Manchester Square",
+    "rent": ""
+  },
+  {
+    "name": "Rowland Heights",
+    "rent": 2147
+  },
+  {
+    "name": "Ridge Route",
+    "rent": 1750
+  },
+  {
+    "name": "South San Jose Hills",
+    "rent": 2203
+  },
+  {
+    "name": "Vermont-Slauson",
+    "rent": 1602
+  },
+  {
+    "name": "Athens",
+    "rent": 2195
+  },
+  {
+    "name": "Mount Washington",
+    "rent": 1940
+  },
+  {
+    "name": "West Compton",
+    "rent": 1894
+  },
+  {
+    "name": "Los Feliz",
+    "rent": 2402
+  },
+  {
+    "name": "Chinatown",
+    "rent": 2145
+  },
+  {
+    "name": "Century City",
+    "rent": 3333
+  },
+  {
+    "name": "Florence-Firestone",
+    "rent": 1361
+  },
+  {
+    "name": "University Park",
+    "rent": 1901
+  },
+  {
+    "name": "Hollywood Hills West",
+    "rent": 2052
+  },
+  {
+    "name": "Unincorporated Santa Monica Mountains",
+    "rent": 2670
+  },
+  {
+    "name": "West Los Angeles",
+    "rent": 3165
+  },
+  {
+    "name": "Hancock Park",
+    "rent": 2946
+  },
+  {
+    "name": "Canoga Park",
+    "rent": 2173
+  },
+  {
+    "name": "Chesterfield Square",
+    "rent": 2181
+  },
+  {
+    "name": "Hidden Hills",
+    "rent": ""
+  },
+  {
+    "name": "Norwalk",
+    "rent": 2075
+  },
+  {
+    "name": "North El Monte",
+    "rent": 2386
+  },
+  {
+    "name": "Monterey Park",
+    "rent": 2100
+  },
+  {
+    "name": "Hollywood",
+    "rent": 2194
+  },
+  {
+    "name": "Fairfax",
+    "rent": 2986
+  },
+  {
+    "name": "Glassell Park",
+    "rent": 2003
+  },
+  {
+    "name": "Watts",
+    "rent": 1600
+  },
+  {
+    "name": "La Verne",
+    "rent": 2740
+  },
+  {
+    "name": "Rancho Palos Verdes",
+    "rent": 3217
+  },
+  {
+    "name": "Green Meadows",
+    "rent": 1830
+  },
+  {
+    "name": "Del Aire",
+    "rent": 2723
+  },
+  {
+    "name": "Vermont Knolls",
+    "rent": 1697
+  },
+  {
+    "name": "Castaic",
+    "rent": ""
+  },
+  {
+    "name": "Westwood",
+    "rent": 2779
+  },
+  {
+    "name": "Venice",
+    "rent": 3138
+  },
+  {
+    "name": "South Diamond Bar",
+    "rent": 2045
+  },
+  {
+    "name": "Universal City",
+    "rent": ""
+  },
+  {
+    "name": "Pacific Palisades",
+    "rent": 2882
+  },
+  {
+    "name": "Bel-Air",
+    "rent": 2258
+  },
+  {
+    "name": "East Pasadena",
+    "rent": 3500
+  },
+  {
+    "name": "Cudahy",
+    "rent": 2109
+  },
+  {
+    "name": "Palos Verdes Estates",
+    "rent": ""
+  },
+  {
+    "name": "Ladera Heights",
+    "rent": 3389
+  },
+  {
+    "name": "Walnut Park",
+    "rent": 1146
+  },
+  {
+    "name": "La Crescenta-Montrose",
+    "rent": 2518
+  },
+  {
+    "name": "Gardena",
+    "rent": 1991
+  },
+  {
+    "name": "Duarte",
+    "rent": 1795
+  },
+  {
+    "name": "La Mirada",
+    "rent": 2528
+  },
+  {
+    "name": "Maywood",
+    "rent": 1767
+  },
+  {
+    "name": "Alondra Park",
+    "rent": 1865
+  },
+  {
+    "name": "Beverly Grove",
+    "rent": 2644
+  },
+  {
+    "name": "Vermont Vista",
+    "rent": 1836
+  },
+  {
+    "name": "Lawndale",
+    "rent": 1978
+  },
+  {
+    "name": "Hyde Park",
+    "rent": 1914
+  },
+  {
+    "name": "Lomita",
+    "rent": 2464
+  },
+  {
+    "name": "South Pasadena",
+    "rent": 2217
+  },
+  {
+    "name": "Westmont",
+    "rent": 964
+  },
+  {
+    "name": "San Pasqual",
+    "rent": 1871
+  },
+  {
+    "name": "West Hollywood",
+    "rent": 2370
+  },
+  {
+    "name": "Artesia",
+    "rent": 2293
+  },
+  {
+    "name": "Manhattan Beach",
+    "rent": 3128
+  },
+  {
+    "name": "West Carson",
+    "rent": 1884
+  },
+  {
+    "name": "Hermosa Beach",
+    "rent": 2648
+  },
+  {
+    "name": "Carthay",
+    "rent": 2931
+  },
+  {
+    "name": "Beverly Hills",
+    "rent": 3183
+  },
+  {
+    "name": "El Segundo",
+    "rent": 2692
+  },
+  {
+    "name": "View Park-Windsor Hills",
+    "rent": 1664
+  },
+  {
+    "name": "Sierra Madre",
+    "rent": 1304
+  },
+  {
+    "name": "Gramercy Park",
+    "rent": ""
+  },
+  {
+    "name": "Aggregated",
+    "rent": 2249
+  }
+]

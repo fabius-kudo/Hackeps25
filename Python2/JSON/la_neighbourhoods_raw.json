@@ -1,0 +1,4494 @@
+[
+  {
+    "type": "node",
+    "id": 26426223,
+    "lat": 33.9776848,
+    "lon": -118.448647,
+    "tags": {
+      "name": "Marina del Rey",
+      "name:en": "Marina del Rey",
+      "place": "quarter",
+      "wikidata": "Q988140",
+      "wikipedia": "en:Marina del Rey, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 26427725,
+    "lat": 33.995044,
+    "lon": -118.4668875,
+    "tags": {
+      "name": "Venice",
+      "place": "suburb",
+      "population": "40885",
+      "wikidata": "Q773853",
+      "wikipedia": "en:Venice, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 122688639,
+    "lat": 34.230429,
+    "lon": -118.2350733,
+    "tags": {
+      "ele": "479",
+      "gnis:feature_id": "1660848",
+      "name": "La Crescenta",
+      "phone": "+1 818 248 4957",
+      "place": "suburb",
+      "population": "19653",
+      "wikidata": "Q1798748"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150933406,
+    "lat": 34.0726552,
+    "lon": -118.2111954,
+    "tags": {
+      "ele": "110",
+      "gnis:feature_id": "1660915",
+      "name": "Lincoln Heights",
+      "place": "suburb",
+      "wikidata": "Q1825736",
+      "wikipedia": "en:Lincoln Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150933726,
+    "lat": 33.9892608,
+    "lon": -118.2992618,
+    "tags": {
+      "ele": "43",
+      "gnis:feature_id": "251545",
+      "name": "Wildasin",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150933823,
+    "lat": 34.252225,
+    "lon": -118.2884105,
+    "tags": {
+      "ele": "540",
+      "gnis:feature_id": "250657",
+      "name": "Tujunga",
+      "place": "suburb",
+      "population": "26527",
+      "wikidata": "Q3503914",
+      "wikipedia": "en:Sunland-Tujunga, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150934130,
+    "lat": 34.0811213,
+    "lon": -118.1778495,
+    "tags": {
+      "ele": "138",
+      "gnis:feature_id": "1660606",
+      "name": "El Sereno",
+      "place": "quarter",
+      "wikidata": "Q4356724",
+      "wikipedia": "en:El Sereno, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150934179,
+    "lat": 33.9830173,
+    "lon": -118.3196032,
+    "tags": {
+      "ele": "42",
+      "gnis:feature_id": "1661623",
+      "name": "Van Ness",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150934188,
+    "lat": 34.0296173,
+    "lon": -118.3224597,
+    "tags": {
+      "ele": "45",
+      "gnis:feature_id": "1732784",
+      "name": "Jefferson Park",
+      "place": "quarter",
+      "wikidata": "Q1638396",
+      "wikipedia": "en:Jefferson Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150934802,
+    "lat": 34.057359,
+    "lon": -118.4146125,
+    "tags": {
+      "ele": "76",
+      "gnis:feature_id": "1660459",
+      "name": "Century City",
+      "place": "quarter",
+      "wikidata": "Q1054483"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150935125,
+    "lat": 34.0022327,
+    "lon": -118.4836879,
+    "tags": {
+      "ele": "9",
+      "gnis:feature_id": "246804",
+      "name": "Ocean Park",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150935958,
+    "lat": 33.9405897,
+    "lon": -118.2428984,
+    "tags": {
+      "ele": "33",
+      "gnis:feature_id": "1661656",
+      "name": "Watts",
+      "place": "neighbourhood",
+      "population": "34830",
+      "wikidata": "Q1687279",
+      "wikipedia": "en:Watts, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150937444,
+    "lat": 34.0994542,
+    "lon": -118.2564635,
+    "tags": {
+      "ele": "169",
+      "gnis:feature_id": "1670013",
+      "name": "Silver Lake Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q1143552"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150939150,
+    "lat": 34.2619469,
+    "lon": -118.3517463,
+    "tags": {
+      "ele": "362",
+      "gnis:feature_id": "1732577",
+      "name": "Shadow Hills",
+      "place": "quarter",
+      "population": "13098",
+      "wikidata": "Q7460524",
+      "wikipedia": "en:Shadow Hills, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150939174,
+    "lat": 34.251114,
+    "lon": -118.3703581,
+    "tags": {
+      "ele": "290",
+      "gnis:feature_id": "1661508",
+      "name": "Stonehurst",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150941199,
+    "lat": 33.920407,
+    "lon": -118.279049,
+    "tags": {
+      "ele": "52",
+      "gnis:feature_id": "1660279",
+      "name": "Athens",
+      "place": "suburb",
+      "wikidata": "Q4813442",
+      "wikipedia": "en:Athens, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150941214,
+    "lat": 34.0908431,
+    "lon": -118.1792385,
+    "tags": {
+      "ele": "179",
+      "gnis:feature_id": "1669888",
+      "name": "Newton Park",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150941450,
+    "lat": 34.2572249,
+    "lon": -118.4670285,
+    "tags": {
+      "ele": "278",
+      "gnis:feature_id": "246007",
+      "name": "Mission Hills",
+      "place": "neighbourhood",
+      "wikidata": "Q384807"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150941906,
+    "lat": 33.9597349,
+    "lon": -118.400632,
+    "tags": {
+      "ele": "38",
+      "gnis:feature_id": "251391",
+      "name": "Westchester",
+      "place": "suburb",
+      "wikidata": "Q4272085",
+      "wikipedia": "en:Westchester, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150944258,
+    "lat": 34.0663976,
+    "lon": -118.4731361,
+    "tags": {
+      "ele": "155",
+      "gnis:feature_id": "1669940",
+      "name": "Westgate Heights",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150945494,
+    "lat": 34.00668,
+    "lon": -118.1678487,
+    "tags": {
+      "ele": "47",
+      "gnis:feature_id": "1660305",
+      "name": "Bandini",
+      "place": "neighbourhood",
+      "wikidata": "Q17154635"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150945851,
+    "lat": 33.9204209,
+    "lon": -118.2418543,
+    "tags": {
+      "ele": "29",
+      "gnis:feature_id": "1867074",
+      "name": "Willowbrook",
+      "place": "suburb",
+      "population": "35983",
+      "wikidata": "Q1898553",
+      "wikipedia": "en:Willowbrook, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150946201,
+    "lat": 34.2147263,
+    "lon": -118.4653611,
+    "tags": {
+      "ele": "241",
+      "name": "Raymer",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150947164,
+    "lat": 34.1186975,
+    "lon": -118.2623924,
+    "tags": {
+      "ele": "123",
+      "gnis:feature_id": "1660281",
+      "name": "Atwater Village",
+      "place": "quarter",
+      "wikidata": "Q758277",
+      "wikipedia": "en:Atwater Village, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150947354,
+    "lat": 33.9414035,
+    "lon": -118.3022963,
+    "tags": {
+      "ele": "66",
+      "name": "Westmont",
+      "place": "suburb",
+      "wikidata": "Q1898611",
+      "wikipedia": "en:Westmont, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150947607,
+    "lat": 34.1687712,
+    "lon": -118.402216,
+    "tags": {
+      "ele": "200",
+      "gnis:feature_id": "1669970",
+      "name": "Garnsey",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150947999,
+    "lat": 34.0611213,
+    "lon": -118.3672997,
+    "tags": {
+      "ele": "44",
+      "gnis:feature_id": "1744809",
+      "name": "Carthay",
+      "place": "neighbourhood",
+      "wikidata": "Q16256587"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150948448,
+    "lat": 34.1050082,
+    "lon": -118.3953567,
+    "tags": {
+      "ele": "347",
+      "name": "Trousdale Estates",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150949523,
+    "lat": 34.1390325,
+    "lon": -118.2140958,
+    "tags": {
+      "ele": "173",
+      "gnis:feature_id": "241718",
+      "name": "Eagle Rock",
+      "place": "suburb",
+      "wikidata": "Q4120016",
+      "wikipedia": "en:Eagle Rock, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150950142,
+    "lat": 34.0736782,
+    "lon": -118.335055,
+    "tags": {
+      "ele": "64",
+      "gnis:feature_id": "1732781",
+      "name": "Hancock Park",
+      "place": "quarter",
+      "wikidata": "Q5647060",
+      "wikipedia": "en:Hancock Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150950512,
+    "lat": 34.0256203,
+    "lon": -118.369573,
+    "tags": {
+      "ele": "32",
+      "gnis:feature_id": "249276",
+      "name": "Sentous",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150950813,
+    "lat": 34.0500116,
+    "lon": -118.1828495,
+    "tags": {
+      "ele": "167",
+      "gnis:feature_id": "1660490",
+      "name": "City Terrace",
+      "place": "neighbourhood",
+      "wikidata": "Q5123462"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150951293,
+    "lat": 34.0838993,
+    "lon": -118.222573,
+    "tags": {
+      "ele": "107",
+      "fixme": "Is this area really called this? There is no nearby Dayton Avenue...",
+      "gnis:feature_id": "1660531",
+      "name": "Dayton Avenue",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150951503,
+    "lat": 34.2242902,
+    "lon": -118.4453745,
+    "tags": {
+      "ele": "249",
+      "gnis:feature_id": "1661187",
+      "name": "Panorama City",
+      "place": "suburb",
+      "wikidata": "Q7131498",
+      "wikipedia": "en:Panorama City, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150951910,
+    "lat": 34.0596491,
+    "lon": -118.4446343,
+    "tags": {
+      "ele": "96",
+      "gnis:feature_id": "1661677",
+      "name": "Westwood Village",
+      "place": "neighbourhood",
+      "wikidata": "Q14684258"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150952186,
+    "lat": 34.0198711,
+    "lon": -118.360664,
+    "tags": {
+      "ele": "34",
+      "name": "Village Green",
+      "place": "neighbourhood",
+      "wikidata": "Q2182407"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150952459,
+    "lat": 34.2763908,
+    "lon": -118.3611912,
+    "tags": {
+      "ele": "357",
+      "gnis:feature_id": "1732356",
+      "name": "Lake View Terrace",
+      "place": "neighbourhood",
+      "wikidata": "Q6478300"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150952736,
+    "lat": 34.1508718,
+    "lon": -118.448986,
+    "tags": {
+      "ele": "202",
+      "gnis:feature_id": "249397",
+      "name": "Sherman Oaks",
+      "place": "suburb",
+      "wikidata": "Q1015874"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150953282,
+    "lat": 33.924006,
+    "lon": -118.3002792,
+    "tags": {
+      "ele": "58",
+      "name": "West Athens",
+      "place": "quarter",
+      "wikidata": "Q1669280",
+      "wikipedia": "en:West Athens, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150955122,
+    "lat": 33.9597361,
+    "lon": -118.326463,
+    "tags": {
+      "gnis:feature_id": "246210",
+      "name": "Morningside Park",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150956150,
+    "lat": 34.1866193,
+    "lon": -118.4486675,
+    "tags": {
+      "ele": "217",
+      "gnis:feature_id": "250945",
+      "name": "Van Nuys",
+      "place": "suburb",
+      "population": "136443",
+      "source:population": "DBpedia",
+      "wikidata": "Q769446",
+      "wikipedia": "en:Van Nuys"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150956189,
+    "lat": 33.916125,
+    "lon": -118.1617005,
+    "tags": {
+      "ele": "25",
+      "gnis:feature_id": "1660756",
+      "name": "Hollydale",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150956777,
+    "lat": 34.050289,
+    "lon": -118.3211871,
+    "tags": {
+      "ele": "55",
+      "gnis:feature_id": "1732765",
+      "name": "Country Club Park",
+      "place": "neighbourhood",
+      "wikidata": "Q33214506"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150957726,
+    "lat": 34.0922322,
+    "lon": -118.224517,
+    "tags": {
+      "ele": "110",
+      "gnis:feature_id": "1732674",
+      "name": "Cypress Park",
+      "place": "quarter",
+      "wikidata": "Q4454029"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150958730,
+    "lat": 34.0550089,
+    "lon": -118.4881363,
+    "tags": {
+      "ele": "131",
+      "gnis:feature_id": "1669826",
+      "name": "Brentwood Park",
+      "place": "neighbourhood",
+      "wikidata": "Q909975"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150958999,
+    "lat": 34.1419225,
+    "lon": -118.358411,
+    "tags": {
+      "ele": "230",
+      "gnis:feature_id": "1661603",
+      "name": "Universal City",
+      "place": "quarter",
+      "wikidata": "Q1376480"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150959732,
+    "lat": 34.0436892,
+    "lon": -118.2097684,
+    "tags": {
+      "gnis:feature_id": "1669828",
+      "name": "Boyle Heights",
+      "place": "suburb",
+      "wikidata": "Q2923029",
+      "wikipedia": "en:Boyle Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150960208,
+    "lat": 34.0311237,
+    "lon": -118.280074,
+    "tags": {
+      "ele": "62",
+      "name": "Saint James Park",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150961129,
+    "lat": 34.0988396,
+    "lon": -118.2211069,
+    "tags": {
+      "ele": "235",
+      "gnis:feature_id": "1661071",
+      "name": "Mount Washington",
+      "place": "neighbourhood",
+      "wikidata": "Q5579890"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150961611,
+    "lat": 34.2204227,
+    "lon": -118.3878945,
+    "tags": {
+      "ele": "247",
+      "gnis:feature_id": "1661523",
+      "name": "Sun Valley",
+      "place": "suburb",
+      "wikidata": "Q14684044",
+      "wikipedia": "en:Sun Valley, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150961854,
+    "lat": 33.9177572,
+    "lon": -118.3708478,
+    "tags": {
+      "ele": "31",
+      "gnis:feature_id": "1867012",
+      "name": "Del Aire",
+      "place": "suburb",
+      "wikidata": "Q2546580",
+      "wikipedia": "en:Del Aire, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150963178,
+    "lat": 34.0813991,
+    "lon": -118.1884055,
+    "tags": {
+      "ele": "182",
+      "gnis:feature_id": "1669890",
+      "name": "Omaha Heights",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150963606,
+    "lat": 34.1099469,
+    "lon": -118.1969828,
+    "tags": {
+      "ele": "171",
+      "gnis:feature_id": "1660746",
+      "name": "Highland Park",
+      "place": "suburb",
+      "population": "57566",
+      "wikidata": "Q3135438",
+      "wikipedia": "en:Highland Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150963817,
+    "lat": 34.2064181,
+    "lon": -118.2288887,
+    "tags": {
+      "ele": "382",
+      "gnis:feature_id": "1661053",
+      "name": "Montrose",
+      "place": "suburb"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150964686,
+    "lat": 34.0625115,
+    "lon": -118.2389626,
+    "tags": {
+      "ele": "95",
+      "gnis:feature_id": "1682217",
+      "name": "New Chinatown",
+      "place": "neighbourhood",
+      "wikidata": "Q2555601"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150964695,
+    "lat": 34.1336193,
+    "lon": -118.241185,
+    "tags": {
+      "gnis:feature_id": "1660230",
+      "name": "Adams Square",
+      "place": "neighbourhood",
+      "wikidata": "Q4680403"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150964813,
+    "lat": 34.2669466,
+    "lon": -118.3023,
+    "tags": {
+      "ele": "461",
+      "gnis:feature_id": "250100",
+      "name": "Sunland",
+      "place": "suburb",
+      "population": "15316",
+      "wikidata": "Q3503914",
+      "wikipedia": "en:Sunland-Tujunga, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150965195,
+    "lat": 34.0869544,
+    "lon": -118.1811831,
+    "tags": {
+      "ele": "162",
+      "gnis:feature_id": "1669816",
+      "name": "Baird Park",
+      "place": "neighbourhood",
+      "wikidata": "Q17154601"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150966404,
+    "lat": 34.0141804,
+    "lon": -118.2461846,
+    "tags": {
+      "ele": "66",
+      "gnis:feature_id": "1661099",
+      "name": "Nevin",
+      "place": "neighbourhood",
+      "wikidata": "Q19866396"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150966677,
+    "lat": 34.0037605,
+    "lon": -118.4391641,
+    "tags": {
+      "ele": "22",
+      "gnis:feature_id": "245482",
+      "name": "Mar Vista",
+      "name:ar": "\u0645\u0627\u0631 \u0641\u064a\u0633\u062a\u0627",
+      "place": "suburb",
+      "wikidata": "Q2783491"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150966715,
+    "lat": 34.0521403,
+    "lon": -118.4740699,
+    "tags": {
+      "ele": "97",
+      "gnis:feature_id": "1660377",
+      "name": "Brentwood",
+      "place": "suburb",
+      "wikidata": "Q909975"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150968103,
+    "lat": 34.0617936,
+    "lon": -118.305447,
+    "tags": {
+      "alt_name": "Ktown",
+      "ele": "61",
+      "gnis:feature_id": "1732794",
+      "name": "Koreatown",
+      "name:en": "Koreatown",
+      "name:ko": "\ucf54\ub9ac\uc544\ud0c0\uc6b4",
+      "place": "suburb",
+      "population": "124281",
+      "tourism": "attraction",
+      "wikidata": "Q872664",
+      "wikipedia": "en:Koreatown, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150968308,
+    "lat": 34.1958386,
+    "lon": -118.2259077,
+    "tags": {
+      "ele": "338",
+      "gnis:feature_id": "1670016",
+      "name": "Sparr Heights",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150968514,
+    "lat": 34.2625025,
+    "lon": -118.427027,
+    "tags": {
+      "ele": "302",
+      "gnis:feature_id": "1661171",
+      "name": "Pacoima",
+      "place": "suburb",
+      "wikidata": "Q4994419"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150969948,
+    "lat": 34.1244525,
+    "lon": -118.1359039,
+    "tags": {
+      "ele": "224",
+      "gnis:feature_id": "1661127",
+      "name": "Oak Knoll",
+      "place": "neighbourhood",
+      "wikidata": "Q7073607"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150970078,
+    "lat": 34.0561214,
+    "lon": -118.3734109,
+    "tags": {
+      "ele": "39",
+      "gnis:feature_id": "1744819",
+      "name": "South Carthay",
+      "place": "neighbourhood",
+      "wikidata": "Q16256587"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150970143,
+    "lat": 33.9879488,
+    "lon": -118.369798,
+    "tags": {
+      "admin_level": "8",
+      "ele": "93",
+      "gnis:feature_id": "1867032",
+      "name": "Ladera Heights",
+      "place": "suburb",
+      "wikidata": "Q2584592",
+      "wikipedia": "en:Ladera Heights, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150971266,
+    "lat": 34.0674016,
+    "lon": -118.3552363,
+    "tags": {
+      "ele": "56",
+      "name": "Park La Brea",
+      "place": "neighbourhood",
+      "wikidata": "Q7137866",
+      "wikipedia": "en:Park La Brea, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150971893,
+    "lat": 33.9541453,
+    "lon": -118.4388067,
+    "tags": {
+      "name": "Playa del Rey",
+      "place": "quarter",
+      "wikidata": "Q7203174",
+      "wikipedia": "en:Playa del Rey, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150972254,
+    "lat": 34.0636199,
+    "lon": -118.4748028,
+    "tags": {
+      "ele": "148",
+      "gnis:feature_id": "1660378",
+      "name": "Brentwood Heights",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150972678,
+    "lat": 34.0819547,
+    "lon": -118.1967391,
+    "tags": {
+      "ele": "237",
+      "gnis:feature_id": "1669911",
+      "name": "Rose Hill",
+      "place": "neighbourhood",
+      "wikidata": "Q7367787"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150972833,
+    "lat": 33.9390306,
+    "lon": -118.3574427,
+    "tags": {
+      "ele": "22",
+      "gnis:feature_id": "1652743",
+      "name": "Lennox",
+      "place": "suburb",
+      "population": "22753",
+      "wikidata": "Q1551721",
+      "wikipedia": "en:Lennox, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150974026,
+    "lat": 34.0485055,
+    "lon": -118.2398899,
+    "tags": {
+      "alt_name": "Little Tokyo Historic District",
+      "ele": "82",
+      "gnis:feature_id": "1732700",
+      "historic": "district",
+      "name": "Little Tokyo",
+      "place": "quarter",
+      "wikidata": "Q1780798"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150974569,
+    "lat": 34.0702889,
+    "lon": -118.254796,
+    "tags": {
+      "alt_name": "Angelino Heights",
+      "ele": "153",
+      "gnis:feature_id": "1744804",
+      "name": "Angeleno Heights",
+      "place": "quarter",
+      "wikidata": "Q4762767",
+      "wikipedia": "en:Angelino Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150976029,
+    "lat": 34.1605626,
+    "lon": -118.264519,
+    "tags": {
+      "gnis:feature_id": "246627",
+      "name": "North Glendale",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150976696,
+    "lat": 34.0827278,
+    "lon": -118.4479802,
+    "tags": {
+      "alt_name": "Bel-Air",
+      "ele": "183",
+      "gnis:feature_id": "1660320",
+      "name": "Bel Air",
+      "place": "quarter",
+      "wikidata": "Q86768",
+      "wikimedia_commons": "Category:Bel Air",
+      "wikipedia": "en:Bel Air, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150976852,
+    "lat": 34.0239015,
+    "lon": -118.172015,
+    "tags": {
+      "ele": "61",
+      "gnis:feature_id": "1660583",
+      "name": "East Los Angeles",
+      "name:es": "Este de Los \u00c1ngeles",
+      "place": "suburb",
+      "population": "126496",
+      "source:population": "DBpedia",
+      "wikidata": "Q690991",
+      "wikipedia": "es:Este de Los \u00c1ngeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150979181,
+    "lat": 34.1483989,
+    "lon": -118.3961877,
+    "tags": {
+      "ele": "186",
+      "gnis:feature_id": "1661516",
+      "name": "Studio City",
+      "place": "suburb",
+      "wikidata": "Q3143067"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150980785,
+    "lat": 34.199727,
+    "lon": -118.3900804,
+    "tags": {
+      "ele": "226",
+      "gnis:feature_id": "1660740",
+      "name": "Hewitt",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150981601,
+    "lat": 33.9854024,
+    "lon": -118.330861,
+    "tags": {
+      "ele": "50",
+      "gnis:feature_id": "1660780",
+      "name": "Hyde Park",
+      "place": "suburb",
+      "wikidata": "Q5953596",
+      "wikipedia": "en:Hyde Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150981867,
+    "lat": 34.1077855,
+    "lon": -118.4456361,
+    "tags": {
+      "ele": "235",
+      "gnis:feature_id": "1660329",
+      "name": "Beverly Glen",
+      "place": "neighbourhood",
+      "wikidata": "Q4899523"
+    }
+  },
+  {
+    "type": "node",
+    "id": 150981982,
+    "lat": 34.039893,
+    "lon": -118.4507991,
+    "tags": {
+      "ele": "48",
+      "gnis:feature_id": "253298",
+      "name": "Sawtelle",
+      "place": "suburb",
+      "wikidata": "Q7428691",
+      "wikipedia": "en:Sawtelle, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358779775,
+    "lat": 34.0639219,
+    "lon": -118.2305651,
+    "tags": {
+      "ele": "90",
+      "name": "Dogtown",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358826357,
+    "lat": 34.1161201,
+    "lon": -118.2289627,
+    "tags": {
+      "ele": "141",
+      "gnis:feature_id": "1732685",
+      "name": "Glassell Park",
+      "place": "neighbourhood",
+      "wikidata": "Q49493965"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358828800,
+    "lat": 33.9841779,
+    "lon": -118.466189,
+    "tags": {
+      "addr:city": "Venice",
+      "addr:postcode": "90292",
+      "addr:state": "CA",
+      "ele": "1",
+      "gnis:feature_id": "1763330",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "historic": "district",
+      "name": "Venice Canal Historic District",
+      "name:en": "Venice Canal Historic District",
+      "name:zh": "\u8fd0\u6cb3\u57ce",
+      "place": "neighbourhood",
+      "ref:nrhp": "82002193",
+      "tourism": "attraction",
+      "wikidata": "Q7919977",
+      "wikipedia": "en:Venice Canal Historic District"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358828802,
+    "lat": 34.1073786,
+    "lon": -118.3336294,
+    "tags": {
+      "ele": "170",
+      "gnis:feature_id": "1763331",
+      "historic": "district",
+      "name": "Whitley Heights Historic District",
+      "place": "neighbourhood",
+      "wikidata": "Q7996570"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358828804,
+    "lat": 34.0722326,
+    "lon": -118.3142427,
+    "tags": {
+      "historic": "district",
+      "name": "Wilton Historic District",
+      "place": "neighbourhood",
+      "wikidata": "Q8023380"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1772062413,
+    "lat": 33.9869591,
+    "lon": -118.3541212,
+    "tags": {
+      "name": "Windsor Hills",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1772062438,
+    "lat": 34.008441,
+    "lon": -118.3314469,
+    "tags": {
+      "name": "Leimert Park",
+      "place": "quarter",
+      "wikidata": "Q3229192",
+      "wikipedia": "en:Leimert Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1773914124,
+    "lat": 33.9938124,
+    "lon": -118.4280374,
+    "tags": {
+      "name": "Culver Garden",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1773954300,
+    "lat": 34.0177372,
+    "lon": -118.2716002,
+    "tags": {
+      "name": "Jefferson",
+      "place": "quarter",
+      "wikidata": "Q1638396"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1775419732,
+    "lat": 33.9812407,
+    "lon": -118.173226,
+    "tags": {
+      "name": "Walker",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1788029657,
+    "lat": 34.1477457,
+    "lon": -118.2740536,
+    "tags": {
+      "name": "West Glendale",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1796785706,
+    "lat": 33.9692761,
+    "lon": -118.2239906,
+    "tags": {
+      "name": "Walnut Park",
+      "place": "suburb",
+      "population": "15966",
+      "wikidata": "Q925462",
+      "wikipedia": "en:Walnut Park, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830174596,
+    "lat": 34.1649502,
+    "lon": -118.374752,
+    "tags": {
+      "name": "North Hollywood",
+      "name:de": "North Hollywood",
+      "name:en": "North Hollywood",
+      "name:es": "North Hollywood",
+      "name:fr": "North Hollywood",
+      "name:it": "North Hollywood",
+      "name:ko": "\ub178\uc2a4\ud560\ub9ac\uc6b0\ub4dc",
+      "name:nl": "North Hollywood",
+      "name:pl": "North Hollywood",
+      "name:pt": "North Hollywood",
+      "name:ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0413\u043e\u043b\u043b\u0438\u0432\u0443\u0434",
+      "place": "suburb",
+      "short_name": "NoHo",
+      "wikidata": "Q1319697"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830179288,
+    "lat": 34.1637147,
+    "lon": -118.3965758,
+    "tags": {
+      "name": "Valley Village",
+      "place": "quarter",
+      "wikidata": "Q7912296"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830212853,
+    "lat": 34.1216903,
+    "lon": -118.3465777,
+    "tags": {
+      "name": "Hollywood Hills",
+      "place": "quarter",
+      "wikidata": "Q1138378",
+      "wikipedia": "en:Hollywood Hills"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830231415,
+    "lat": 34.0980031,
+    "lon": -118.329523,
+    "tags": {
+      "name": "Hollywood",
+      "name:ar": "\u0647\u0648\u0644\u064a\u0648\u0648\u062f",
+      "name:hi": "\u0939\u0949\u0932\u0940\u0935\u0941\u0921 \u0938\u093e\u0907\u0928",
+      "name:zh": "\u597d\u83b1\u575e",
+      "place": "suburb",
+      "wikidata": "Q34006",
+      "wikipedia": "en:Hollywood, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830231457,
+    "lat": 34.0981716,
+    "lon": -118.3044966,
+    "tags": {
+      "name": "Little Armenia",
+      "place": "neighbourhood",
+      "wikidata": "Q1795364"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2245850847,
+    "lat": 34.0896518,
+    "lon": -118.269373,
+    "tags": {
+      "name": "Silver Lake",
+      "place": "quarter",
+      "wikidata": "Q1143552",
+      "wikipedia": "en:Silver Lake, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2618104668,
+    "lat": 34.0926493,
+    "lon": -118.280795,
+    "tags": {
+      "name": "Sunset Junction",
+      "place": "neighbourhood",
+      "wikidata": "Q7641298"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2664728207,
+    "lat": 34.0025923,
+    "lon": -118.3356307,
+    "tags": {
+      "admin_level": "8",
+      "name": "View Park-Windsor Hills",
+      "place": "suburb"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2684082399,
+    "lat": 34.1391544,
+    "lon": -118.1024418,
+    "tags": {
+      "name": "San Pasqual",
+      "place": "suburb",
+      "wikidata": "Q7415074"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2770492362,
+    "lat": 34.0779819,
+    "lon": -118.2567824,
+    "tags": {
+      "name": "Echo Park",
+      "place": "suburb",
+      "wikidata": "Q3047014",
+      "wikipedia": "en:Echo Park"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3254064485,
+    "lat": 34.0550659,
+    "lon": -118.2512228,
+    "tags": {
+      "name": "Bunker Hill",
+      "place": "quarter",
+      "wikidata": "Q2928231"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3381399786,
+    "lat": 34.0440571,
+    "lon": -118.2438507,
+    "tags": {
+      "name": "Skid Row",
+      "place": "quarter",
+      "wikidata": "Q1057444",
+      "wikipedia": "en:Skid Row, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3833103042,
+    "lat": 34.0668947,
+    "lon": -118.439944,
+    "tags": {
+      "ele": "82",
+      "gnis:feature_id": "1661676",
+      "name": "Westwood",
+      "place": "suburb",
+      "wikidata": "Q1199774",
+      "wikipedia": "en:Westwood, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3881079513,
+    "lat": 33.9884024,
+    "lon": -118.3933402,
+    "tags": {
+      "name": "Fox Hills",
+      "place": "neighbourhood",
+      "wikidata": "Q5476734"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4010398541,
+    "lat": 34.0412389,
+    "lon": -118.2344503,
+    "tags": {
+      "name": "Arts District",
+      "place": "quarter",
+      "wikidata": "Q3932198"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4010398542,
+    "lat": 34.0457621,
+    "lon": -118.2593047,
+    "tags": {
+      "name": "Financial District",
+      "place": "quarter",
+      "wikidata": "Q3488365"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4010398543,
+    "lat": 34.0335453,
+    "lon": -118.2565141,
+    "tags": {
+      "alt_name": "Garment District",
+      "name": "Fashion District",
+      "place": "quarter",
+      "wikidata": "Q2491300"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4010398544,
+    "lat": 34.0404069,
+    "lon": -118.2665377,
+    "tags": {
+      "name": "South Park",
+      "place": "quarter",
+      "wikidata": "Q4540147"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4487849512,
+    "lat": 34.2429575,
+    "lon": -118.4854081,
+    "tags": {
+      "name": "North Hills",
+      "place": "suburb",
+      "wikidata": "Q7055628",
+      "wikipedia": "en:North Hills, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4613230295,
+    "lat": 34.2413266,
+    "lon": -118.4322047,
+    "tags": {
+      "name": "Arleta",
+      "place": "suburb",
+      "wikidata": "Q2841135",
+      "wikipedia": "en:Arleta, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773917662,
+    "lat": 34.132798,
+    "lon": -118.1414869,
+    "tags": {
+      "name": "Madison Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q16953959"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773917663,
+    "lat": 34.1612451,
+    "lon": -118.127187,
+    "tags": {
+      "name": "Bungalow Heaven",
+      "place": "neighbourhood",
+      "wikidata": "Q4997611"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773917664,
+    "lat": 34.1622749,
+    "lon": -118.1395252,
+    "tags": {
+      "name": "Orange Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q7099640"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773922981,
+    "lat": 34.1654305,
+    "lon": -118.1347738,
+    "tags": {
+      "name": "Washington Square",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773922982,
+    "lat": 34.1700455,
+    "lon": -118.1395588,
+    "tags": {
+      "name": "Normandie Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q7053034"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4773922983,
+    "lat": 34.166637,
+    "lon": -118.1394314,
+    "tags": {
+      "name": "Craftsman Heights",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5124313385,
+    "lat": 34.0146113,
+    "lon": -118.3603104,
+    "tags": {
+      "name": "Baldwin Hills",
+      "place": "quarter",
+      "wikidata": "Q804862",
+      "wikipedia": "en:Baldwin Hills, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6056157618,
+    "lat": 34.0459334,
+    "lon": -118.39492,
+    "tags": {
+      "name": "Beverlywood",
+      "place": "neighbourhood",
+      "wikidata": "Q4899639",
+      "wikipedia": "en:Beverlywood, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6597720653,
+    "lat": 34.1659244,
+    "lon": -118.2175955,
+    "tags": {
+      "description": "Part of neighborhood watch",
+      "is_in:city": "Glendale",
+      "name": "Rancho San Rafael",
+      "place": "neighbourhood",
+      "source": "signs on Camino San Rafael (viewed from streetside)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6597784143,
+    "lat": 34.1824373,
+    "lon": -118.2076908,
+    "tags": {
+      "is_in:city": "Glendale",
+      "name": "Emerald Isle",
+      "place": "neighbourhood",
+      "source": "survey;streetlevel imagery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6765436682,
+    "lat": 34.1538013,
+    "lon": -118.2550389,
+    "tags": {
+      "name": "Glendale City Center",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6806550834,
+    "lat": 34.1018533,
+    "lon": -118.3048616,
+    "tags": {
+      "name": "Thai Town",
+      "place": "neighbourhood",
+      "wikidata": "Q3519423"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6810008086,
+    "lat": 34.1826379,
+    "lon": -118.4138666,
+    "tags": {
+      "name": "Valley Glen",
+      "place": "suburb",
+      "wikidata": "Q7912076",
+      "wikipedia": "en:Valley Glen, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6816391724,
+    "lat": 34.0837112,
+    "lon": -118.2949577,
+    "tags": {
+      "name": "Bicycle District",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021286623,
+    "lat": 34.1222919,
+    "lon": -118.3213845,
+    "tags": {
+      "name": "Beachwood Canyon",
+      "place": "neighbourhood",
+      "population": "22000",
+      "wikidata": "Q4875891",
+      "wikipedia": "en:Beachwood Canyon, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7261763159,
+    "lat": 34.0466887,
+    "lon": -118.3307729,
+    "tags": {
+      "name": "Victoria Park",
+      "place": "neighbourhood",
+      "wikidata": "Q7926916"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7299246421,
+    "lat": 33.9409877,
+    "lon": -118.2629968,
+    "tags": {
+      "name": "Green Meadows",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7299246478,
+    "lat": 33.9410149,
+    "lon": -118.2744036,
+    "tags": {
+      "name": "Broadway-Manchester",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7299272287,
+    "lat": 33.9419475,
+    "lon": -118.2858138,
+    "tags": {
+      "name": "Vermont Vista",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7299272295,
+    "lat": 33.9511938,
+    "lon": -118.3093275,
+    "tags": {
+      "name": "Gramercy Park",
+      "place": "quarter",
+      "wikidata": "Q5593630"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7300497587,
+    "lat": 33.966374,
+    "lon": -118.3133775,
+    "tags": {
+      "name": "Manchester Square",
+      "place": "quarter",
+      "wikidata": "Q6747515"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7300497598,
+    "lat": 33.9668188,
+    "lon": -118.29167,
+    "tags": {
+      "name": "Vermont Knolls",
+      "place": "suburb",
+      "wikidata": "Q7921730",
+      "wikipedia": "en:Vermont Knolls, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7301113051,
+    "lat": 33.9896527,
+    "lon": -118.4243437,
+    "tags": {
+      "ele": "6",
+      "gnis:feature_id": "1669959",
+      "name": "Del Rey",
+      "place": "quarter",
+      "wikidata": "Q4299604"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7301120282,
+    "lat": 33.9760102,
+    "lon": -118.4181654,
+    "tags": {
+      "ele": "2",
+      "gnis:feature_id": "1875783",
+      "name": "Playa Vista",
+      "place": "quarter",
+      "wikidata": "Q3177723"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7301250383,
+    "lat": 34.0468546,
+    "lon": -118.430254,
+    "tags": {
+      "ele": "74",
+      "gnis:feature_id": "251362",
+      "name": "West Los Angeles",
+      "place": "quarter",
+      "wikidata": "Q2543669",
+      "wikipedia": "en:West Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304587912,
+    "lat": 34.0341731,
+    "lon": -118.4262057,
+    "tags": {
+      "name": "Rancho Park",
+      "place": "quarter",
+      "wikidata": "Q4162186",
+      "wikipedia": "en:Rancho Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304587946,
+    "lat": 34.0405878,
+    "lon": -118.4098875,
+    "tags": {
+      "name": "Cheviot Hills",
+      "place": "quarter",
+      "wikidata": "Q4299606",
+      "wikipedia": "en:Cheviot Hills, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304587961,
+    "lat": 34.0247328,
+    "lon": -118.4116152,
+    "tags": {
+      "name": "Palms",
+      "place": "suburb",
+      "wikidata": "Q7128429",
+      "wikipedia": "en:Palms, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304588000,
+    "lat": 34.053269,
+    "lon": -118.3869832,
+    "tags": {
+      "name": "Pico-Robertson",
+      "place": "suburb",
+      "wikidata": "Q7568344",
+      "wikipedia": "en:South Robertson, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304675778,
+    "lat": 34.0294356,
+    "lon": -118.3524833,
+    "tags": {
+      "name": "West Adams",
+      "place": "suburb",
+      "wikidata": "Q12072699",
+      "wikipedia": "en:West Adams, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304744173,
+    "lat": 34.0798375,
+    "lon": -118.3178702,
+    "tags": {
+      "name": "Larchmont",
+      "place": "neighbourhood",
+      "wikidata": "Q6488793",
+      "wikipedia": "en:Larchmont, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7304762329,
+    "lat": 34.0689734,
+    "lon": -118.319988,
+    "tags": {
+      "name": "Windsor Square",
+      "place": "quarter",
+      "website": "http://www.windsorsquare.org/our-neighborhood/",
+      "wikidata": "Q8024704",
+      "wikipedia": "en:Windsor Square, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7307200468,
+    "lat": 34.0760338,
+    "lon": -118.369972,
+    "tags": {
+      "name": "Beverly Grove",
+      "place": "quarter",
+      "wikidata": "Q16254518",
+      "wikipedia": "en:Beverly Grove, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7307200482,
+    "lat": 34.0791555,
+    "lon": -118.3522844,
+    "tags": {
+      "name": "Fairfax",
+      "place": "suburb",
+      "wikidata": "Q5430171",
+      "wikipedia": "en:Fairfax District, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7307239373,
+    "lat": 34.0904277,
+    "lon": -118.2966254,
+    "tags": {
+      "name": "East Hollywood",
+      "place": "quarter",
+      "wikidata": "Q5328620",
+      "wikipedia": "en:East Hollywood, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7310117254,
+    "lat": 34.047996,
+    "lon": -118.2521002,
+    "tags": {
+      "name": "Downtown",
+      "place": "suburb",
+      "wikidata": "Q995043",
+      "wikipedia": "en:Downtown Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7310117324,
+    "lat": 34.0638402,
+    "lon": -118.2358676,
+    "tags": {
+      "name": "Chinatown",
+      "place": "suburb",
+      "wikidata": "Q2555601",
+      "wikipedia": "en:Chinatown, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7314759182,
+    "lat": 34.0629226,
+    "lon": -118.2728204,
+    "tags": {
+      "name": "Westlake",
+      "name:etymology": "Henricus Wallace Westlake",
+      "name:etymology:wikidata": "Q23621408",
+      "name:etymology:wikipedia": "en: Henricus Wallace Westlake",
+      "place": "suburb",
+      "wikidata": "Q7988959",
+      "wikipedia": "en:Westlake, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7314865992,
+    "lat": 34.0959128,
+    "lon": -118.2420326,
+    "tags": {
+      "name": "Elysian Valley",
+      "place": "quarter",
+      "wikidata": "Q5368572",
+      "wikipedia": "en:Elysian Valley, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7345897916,
+    "lat": 33.9815928,
+    "lon": -118.4296807,
+    "tags": {
+      "name": "Alla",
+      "place": "neighbourhood",
+      "wikidata": "Q64764651",
+      "wikipedia": "en:Alla, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360410719,
+    "lat": 34.0317877,
+    "lon": -118.3002466,
+    "tags": {
+      "alt_name": "Adams - Normandie Historic Preservation Overlay Zone",
+      "historic": "district",
+      "name": "Adams-Normandie",
+      "old_name": "West Adams\u2013Normandie",
+      "place": "quarter",
+      "wikidata": "Q16198465",
+      "wikipedia": "en:Adams-Normandie, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360410739,
+    "lat": 34.0271773,
+    "lon": -118.2840429,
+    "tags": {
+      "name": "University Park",
+      "place": "quarter",
+      "wikidata": "Q7894855",
+      "wikipedia": "en:University Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360410768,
+    "lat": 34.0183415,
+    "lon": -118.3002033,
+    "tags": {
+      "name": "Exposition Park",
+      "place": "suburb",
+      "wikidata": "Q6411548",
+      "wikipedia": "en:Exposition Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360410808,
+    "lat": 34.0019449,
+    "lon": -118.3002125,
+    "tags": {
+      "name": "Vermont Square",
+      "place": "suburb",
+      "wikidata": "Q2517109",
+      "wikipedia": "en:Vermont Square, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360424710,
+    "lat": 34.0162304,
+    "lon": -118.2673085,
+    "tags": {
+      "name": "Historic South-Central",
+      "place": "suburb",
+      "wikidata": "Q16995502",
+      "wikipedia": "en:Historic South Central Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360424723,
+    "lat": 33.9959381,
+    "lon": -118.2697608,
+    "tags": {
+      "name": "South Park",
+      "place": "suburb",
+      "wikidata": "Q4540147",
+      "wikipedia": "en:South Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360541061,
+    "lat": 33.9836914,
+    "lon": -118.2915417,
+    "tags": {
+      "name": "Vermont-Slauson",
+      "place": "quarter",
+      "wikidata": "Q17108525",
+      "wikipedia": "en:Vermont-Slauson, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360541064,
+    "lat": 33.9839471,
+    "lon": -118.3046228,
+    "tags": {
+      "name": "Harvard Park",
+      "place": "neighbourhood",
+      "wikidata": "Q16994894",
+      "wikipedia": "en:Harvard Park, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360541068,
+    "lat": 33.9834737,
+    "lon": -118.3136513,
+    "tags": {
+      "name": "Chesterfield Square",
+      "place": "neighbourhood",
+      "wikidata": "Q5093828",
+      "wikipedia": "en:Chesterfield Square, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360566572,
+    "lat": 33.9747477,
+    "lon": -118.2695842,
+    "tags": {
+      "name": "Florence",
+      "place": "suburb",
+      "wikidata": "Q16993506",
+      "wikipedia": "en:Florence, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360566579,
+    "lat": 33.9674263,
+    "lon": -118.2433068,
+    "tags": {
+      "name": "Florence-Firestone",
+      "place": "suburb",
+      "wikidata": "Q601787",
+      "wikipedia": "en:Florence-Graham, California"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7360901787,
+    "lat": 34.004015,
+    "lon": -118.2477844,
+    "tags": {
+      "name": "Central-Alameda",
+      "place": "suburb",
+      "wikidata": "Q16256906",
+      "wikipedia": "en:Central-Alameda, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365224038,
+    "lat": 34.0895404,
+    "lon": -118.1942792,
+    "tags": {
+      "name": "Montecito Heights",
+      "place": "suburb",
+      "wikidata": "Q5285400",
+      "wikipedia": "en:Montecito Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365301427,
+    "lat": 34.0465669,
+    "lon": -118.2878942,
+    "tags": {
+      "name": "Pico-Union",
+      "place": "suburb",
+      "wikidata": "Q7190998",
+      "wikipedia": "en:Pico-Union, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365301435,
+    "lat": 34.0471105,
+    "lon": -118.3054828,
+    "tags": {
+      "name": "Harvard Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q14682123",
+      "wikipedia": "en:Harvard Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365301436,
+    "lat": 34.0434937,
+    "lon": -118.3213735,
+    "tags": {
+      "name": "Arlington Heights",
+      "place": "quarter",
+      "wikidata": "Q4792323",
+      "wikipedia": "en:Arlington Heights, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365301464,
+    "lat": 34.0415271,
+    "lon": -118.3603703,
+    "tags": {
+      "name": "Mid-City",
+      "place": "suburb",
+      "wikidata": "Q6840673",
+      "wikipedia": "en:Mid City, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365301515,
+    "lat": 34.0568616,
+    "lon": -118.3458032,
+    "tags": {
+      "name": "Mid-Wilshire",
+      "place": "suburb",
+      "wikidata": "Q3312605",
+      "wikipedia": "en:Mid-Wilshire, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7365664966,
+    "lat": 34.1167701,
+    "lon": -118.4322607,
+    "tags": {
+      "name": "Beverly Crest",
+      "place": "quarter",
+      "wikidata": "Q4899499",
+      "wikipedia": "en:Beverly Crest, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7384252840,
+    "lat": 34.1104847,
+    "lon": -118.3733879,
+    "tags": {
+      "name": "Hollywood Hills West",
+      "place": "neighbourhood",
+      "wikidata": "Q16995694",
+      "wikipedia": "en:Hollywood Hills West, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7391589105,
+    "lat": 34.1076561,
+    "lon": -118.2875062,
+    "tags": {
+      "name": "Los Feliz",
+      "place": "suburb",
+      "wikidata": "Q6682727",
+      "wikipedia": "en:Los Feliz, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7391589112,
+    "lat": 34.1521688,
+    "lon": -118.357141,
+    "tags": {
+      "name": "Toluca Lake",
+      "place": "neighbourhood",
+      "wikidata": "Q1814220",
+      "wikipedia": "en:Toluca Lake, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7797686873,
+    "lat": 34.1575832,
+    "lon": -118.4138403,
+    "tags": {
+      "name": "Sherman Village",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8628428731,
+    "lat": 34.1458473,
+    "lon": -118.1498123,
+    "tags": {
+      "name": "Old Pasadena",
+      "place": "quarter",
+      "wikidata": "Q7085297"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9279732867,
+    "lat": 34.2355447,
+    "lon": -118.4676065,
+    "tags": {
+      "name": "North Hills East",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9573892948,
+    "lat": 34.2433098,
+    "lon": -118.454937,
+    "tags": {
+      "name": "Corterra",
+      "place": "neighbourhood",
+      "source:url": "https://web.archive.org/web/20220326221809/https://www.drhorton.com/california/los-angeles/los-angeles/corterra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9791528532,
+    "lat": 34.290742,
+    "lon": -118.46227,
+    "tags": {
+      "name": "Carey Ranch",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9861837589,
+    "lat": 34.2936139,
+    "lon": -118.4491444,
+    "tags": {
+      "name": "Village Green",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9904929305,
+    "lat": 34.0395703,
+    "lon": -118.4424952,
+    "tags": {
+      "name": "Sawtelle Japantown",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9922913248,
+    "lat": 33.9932961,
+    "lon": -118.4004861,
+    "tags": {
+      "name": "Sunkist Park",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9928862917,
+    "lat": 34.0451045,
+    "lon": -118.2812397,
+    "tags": {
+      "name": "Alvarado Terrace Historic District",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9941250882,
+    "lat": 34.0624027,
+    "lon": -118.3515073,
+    "tags": {
+      "name": "Miracle Mile",
+      "place": "neighbourhood",
+      "wikidata": "Q3315812",
+      "wikipedia": "en:Miracle Mile, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9941735784,
+    "lat": 34.076366,
+    "lon": -118.4076933,
+    "tags": {
+      "name": "The Flats",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9941753817,
+    "lat": 34.0238639,
+    "lon": -118.3944702,
+    "tags": {
+      "name": "Downtown Culver City",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980219908,
+    "lat": 34.0338481,
+    "lon": -118.3964001,
+    "tags": {
+      "name": "Castle Heights",
+      "place": "neighbourhood",
+      "wikidata": "Q5050112"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980659421,
+    "lat": 34.055292,
+    "lon": -118.4417931,
+    "tags": {
+      "alt_name": "Little Persia",
+      "name": "Tehrangeles",
+      "place": "neighbourhood",
+      "wikidata": "Q1482230",
+      "wikipedia": "en:Tehrangeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980761141,
+    "lat": 34.0361621,
+    "lon": -118.3861663,
+    "tags": {
+      "name": "Reynier Village",
+      "place": "neighbourhood",
+      "wikidata": "Q17086939"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980765139,
+    "lat": 34.0744671,
+    "lon": -118.4300117,
+    "tags": {
+      "name": "Holmby Hills",
+      "place": "neighbourhood",
+      "wikidata": "Q3139443"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980767834,
+    "lat": 34.0274472,
+    "lon": -118.4211471,
+    "tags": {
+      "name": "Westside Village",
+      "place": "neighbourhood",
+      "wikidata": "Q7989722"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9980767835,
+    "lat": 34.0222722,
+    "lon": -118.434044,
+    "tags": {
+      "name": "Westdale",
+      "place": "neighbourhood",
+      "wikidata": "Q7987324"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9982480959,
+    "lat": 34.0568295,
+    "lon": -118.3644199,
+    "tags": {
+      "name": "Little Ethiopia",
+      "place": "neighbourhood",
+      "wikidata": "Q634624"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10004663957,
+    "lat": 34.031372,
+    "lon": -118.3785606,
+    "tags": {
+      "name": "Culver City Arts District",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10120176486,
+    "lat": 34.0175084,
+    "lon": -118.3396649,
+    "tags": {
+      "name": "Crenshaw",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10713317360,
+    "lat": 34.0666691,
+    "lon": -118.4630509,
+    "tags": {
+      "name": "Brentwood Glen",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10744608092,
+    "lat": 34.0042617,
+    "lon": -118.3315129,
+    "tags": {
+      "name": "Leimert Park Village",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10841306582,
+    "lat": 34.0704358,
+    "lon": -118.2724143,
+    "tags": {
+      "name": "Historic Filipinotown",
+      "place": "quarter",
+      "wikidata": "Q3138354",
+      "wikipedia": "en:Historic Filipinotown, Los Angeles"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318621,
+    "lat": 34.0457511,
+    "lon": -118.2544247,
+    "tags": {
+      "name": "Jewelry District",
+      "place": "neighbourhood",
+      "wikidata": "Q4171089"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318622,
+    "lat": 34.0487926,
+    "lon": -118.2499266,
+    "tags": {
+      "name": "Historic Core",
+      "place": "quarter",
+      "wikidata": "Q4147619"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318623,
+    "lat": 34.0465519,
+    "lon": -118.2495584,
+    "tags": {
+      "name": "Gallery Row",
+      "place": "neighbourhood",
+      "wikidata": "Q4146165"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318624,
+    "lat": 34.0557834,
+    "lon": -118.2449854,
+    "tags": {
+      "name": "Civic Center",
+      "place": "quarter",
+      "wikidata": "Q4111516"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318625,
+    "lat": 34.0465687,
+    "lon": -118.2454288,
+    "tags": {
+      "name": "Toy District",
+      "place": "neighbourhood",
+      "wikidata": "Q4274139"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10845318626,
+    "lat": 34.0566567,
+    "lon": -118.2392537,
+    "tags": {
+      "name": "Pueblo de Los \u00c1ngeles",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10934542407,
+    "lat": 34.0350944,
+    "lon": -118.4046927,
+    "tags": {
+      "name": "California Country Club Estates",
+      "place": "neighbourhood",
+      "wikidata": "Q19576090"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10940225296,
+    "lat": 34.0861835,
+    "lon": -118.2875682,
+    "tags": {
+      "name": "Virgil Village",
+      "place": "neighbourhood",
+      "wikidata": "Q113541176"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11214982063,
+    "lat": 34.2829912,
+    "lon": -118.4417434,
+    "tags": {
+      "name": "San Fernando Mall",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11419827225,
+    "lat": 33.923885,
+    "lon": -118.3786589,
+    "tags": {
+      "name": "Lair Port",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11612614008,
+    "lat": 34.2951205,
+    "lon": -118.3782164,
+    "tags": {
+      "name": "El Merrie Del",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11773258550,
+    "lat": 34.0690466,
+    "lon": -118.2954277,
+    "tags": {
+      "name": "Little Bangladesh",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11950666695,
+    "lat": 34.0647246,
+    "lon": -118.4700986,
+    "tags": {
+      "name": "Brentwood Village",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12046776658,
+    "lat": 34.0157044,
+    "lon": -118.496099,
+    "tags": {
+      "name": "Downtown Santa Monica",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12233741030,
+    "lat": 34.0241981,
+    "lon": -118.3802604,
+    "tags": {
+      "name": "Hayden Tract",
+      "place": "neighbourhood",
+      "wikidata": "Q107401697"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12624561131,
+    "lat": 34.2676932,
+    "lon": -118.4160894,
+    "tags": {
+      "name": "San Fernando Gardens",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 217172189,
+    "center": {
+      "lat": 34.0583064,
+      "lon": -118.1954186
+    },
+    "nodes": [
+      1832218129,
+      2276393786,
+      2276393787,
+      4546162251,
+      2274270134,
+      2276393814,
+      9921011570,
+      2274270115,
+      2274270108,
+      1832218171,
+      1832218247,
+      1832218272,
+      1832218343,
+      2264653402,
+      2268956195,
+      2268956196,
+      11780811364,
+      2274005354,
+      2274005353,
+      2274005352,
+      2267079561,
+      11780811347,
+      11780811352,
+      2267079564,
+      2268956267,
+      2264653403,
+      2264653404,
+      2264653405,
+      1997429754,
+      1997429757,
+      1997429740,
+      2277961764,
+      2264653406,
+      2264653407,
+      2264653408,
+      9921022860,
+      2263012809,
+      1832218445,
+      1832218449,
+      1832218454,
+      2278365499,
+      2278365501,
+      2278365491,
+      2278365493,
+      2278365506,
+      2278365485,
+      2276399310,
+      2276399311,
+      11764166027,
+      2276399312,
+      2276397834,
+      1832218339,
+      1832218340,
+      1832218129
+    ],
+    "tags": {
+      "housing_type": "public_housing",
+      "landuse": "residential",
+      "name": "Ramona Gardens",
+      "operator": "Housing Authority of the City of Los Angeles",
+      "place": "neighbourhood",
+      "wikidata": "Q7289914"
+    }
+  },
+  {
+    "type": "way",
+    "id": 260858785,
+    "center": {
+      "lat": 34.1079663,
+      "lon": -118.2880824
+    },
+    "nodes": [
+      2664324888,
+      6876965522,
+      9432312718,
+      6876965519,
+      2125857318,
+      2125857320,
+      6876942270,
+      6876942268,
+      8486640329,
+      6876942266,
+      6876942265,
+      2894755517,
+      8149668095,
+      10738982408,
+      2125857347,
+      10738982409,
+      2124596860,
+      2124596851,
+      2125857345,
+      10738982410,
+      7391589104,
+      7879730993,
+      7391589103,
+      7879730992,
+      2125857346,
+      6876942251,
+      6876942250,
+      6876942252,
+      2125857303,
+      6876942254,
+      6938166776,
+      2664324900,
+      1792183434,
+      6876965500,
+      6876965501,
+      2664324894,
+      4899543194,
+      4899543190,
+      4899543191,
+      2664324886,
+      4899543182,
+      4899543183,
+      4899543184,
+      4899543188,
+      4899543186,
+      4899543187,
+      4899543185,
+      6876965507,
+      6876965508,
+      2664324884,
+      2664324883,
+      6876965515,
+      6876965514,
+      2664324888
+    ],
+    "tags": {
+      "name": "Los Feliz",
+      "place": "neighbourhood",
+      "wikidata": "Q6682727"
+    }
+  },
+  {
+    "type": "way",
+    "id": 279459553,
+    "center": {
+      "lat": 34.0514321,
+      "lon": -118.3256118
+    },
+    "nodes": [
+      2836775259,
+      2836775260,
+      2836775261,
+      2836775262,
+      2836775259
+    ],
+    "tags": {
+      "historic": "heritage",
+      "name": "Oxford Square",
+      "place": "neighbourhood",
+      "website": "http://www.oxfordsquare.org"
+    }
+  },
+  {
+    "type": "way",
+    "id": 306074147,
+    "center": {
+      "lat": 34.0200534,
+      "lon": -118.3741683
+    },
+    "nodes": [
+      6264893085,
+      3108829775,
+      3108829776,
+      3108829777,
+      3108829778,
+      3108829779,
+      3108829780,
+      3108829781,
+      3108829782,
+      3108829783,
+      3108829784,
+      3108829785,
+      3108829786,
+      3108829787,
+      3108829788,
+      6264889284,
+      6264893085
+    ],
+    "tags": {
+      "name": "Cameo Woods",
+      "phone": "+1-310-559-0643",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 450534589,
+    "center": {
+      "lat": 34.0890738,
+      "lon": -118.2633287
+    },
+    "nodes": [
+      4474570157,
+      4474570158,
+      4474570159,
+      4474570160,
+      4474570161,
+      4474570162,
+      4474570163,
+      4474570164,
+      4474570165,
+      4474570166,
+      2485805422,
+      4474570167,
+      4474570168,
+      2485805458,
+      123607722,
+      4474570169,
+      3588437735,
+      4474570170,
+      4474570171,
+      4474570172,
+      4474570173,
+      4474570174,
+      4474570175,
+      4474570176,
+      122687321,
+      4474570177,
+      4474570178,
+      4474570157
+    ],
+    "tags": {
+      "name": "Hathaway Hills Estates",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 550767339,
+    "center": {
+      "lat": 34.06783,
+      "lon": -118.3545781
+    },
+    "nodes": [
+      6901137738,
+      1949993812,
+      6901137740,
+      4601446579,
+      4601446580,
+      9982282308,
+      6108071344,
+      6108071347,
+      6901137743,
+      6901137745,
+      122557281,
+      6108076930,
+      6108076931,
+      122557284,
+      122875360,
+      8181369075,
+      123050526,
+      8181369074,
+      10295308117,
+      123164015,
+      6108071350,
+      2119990297,
+      6994462126,
+      6108071353,
+      6108071352,
+      6108071351,
+      122767258,
+      7111565687,
+      6899646317,
+      122762962,
+      6899646316,
+      6899646320,
+      6899646321,
+      6899646324,
+      6899646336,
+      6899646337,
+      6899646313,
+      6899646338,
+      6899646325,
+      6899646339,
+      6910444982,
+      6899646329,
+      6910444981,
+      6899646328,
+      6910444980,
+      6901137729,
+      6910444979,
+      6910444978,
+      6910637562,
+      6910637563,
+      6910637564,
+      6910637565,
+      6901137737,
+      6901137738
+    ],
+    "tags": {
+      "landuse": "residential",
+      "name": "Park La Brea",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 599761670,
+    "center": {
+      "lat": 34.2238085,
+      "lon": -118.4834974
+    },
+    "nodes": [
+      5705056677,
+      5705056676,
+      8556124396,
+      8556124395,
+      8556124394,
+      8556124393,
+      5705056675,
+      5705056674,
+      5705056673,
+      8556124392,
+      8556124390,
+      8556124391,
+      8556124389,
+      8556124388,
+      5705056672,
+      5705056671,
+      5705056670,
+      8556124387,
+      13118753027,
+      5705056669,
+      13118753028,
+      5705056668,
+      8556124382,
+      8556124383,
+      8556124384,
+      8556124385,
+      8556124386,
+      5705056667,
+      8556124418,
+      8556124381,
+      5705056666,
+      5705056665,
+      5705056677
+    ],
+    "tags": {
+      "name": "Oak Pointe",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 669685392,
+    "center": {
+      "lat": 34.0546242,
+      "lon": -118.2719558
+    },
+    "nodes": [
+      6271385942,
+      6271385943,
+      6271385944,
+      6271385945,
+      6271385946,
+      13059223918,
+      6271385947,
+      6418751241,
+      13059334211,
+      13059334212,
+      6271385948,
+      6271385949,
+      6271385950,
+      6271385951,
+      6271385952,
+      6271385953,
+      6271385954,
+      6271385955,
+      6271385956,
+      6271385957,
+      6271385942
+    ],
+    "tags": {
+      "name": "Westlake South",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 729762217,
+    "center": {
+      "lat": 34.1472501,
+      "lon": -118.2476591
+    },
+    "nodes": [
+      6814962359,
+      6836039497,
+      6836039498,
+      6836039499,
+      6814962359
+    ],
+    "tags": {
+      "name": "Glendale Civic Center",
+      "place": "quarter"
+    }
+  },
+  {
+    "type": "way",
+    "id": 736935483,
+    "center": {
+      "lat": 34.0409303,
+      "lon": -118.2493226
+    },
+    "nodes": [
+      13069240840,
+      6784591765,
+      12909458931,
+      6784591762,
+      3698094184,
+      13040636458,
+      26666265,
+      3698094185,
+      4015486552,
+      3698094188,
+      122886634,
+      3698094187,
+      2612976959,
+      6726989712,
+      6784969286,
+      6726989716,
+      6726989720,
+      6726989706,
+      9525636191,
+      6726989697,
+      6784553789,
+      3663691131,
+      123015310,
+      3663692500,
+      6784553786,
+      123106303,
+      1737956701,
+      3663692499,
+      1737956703,
+      3698074307,
+      122627103,
+      3698074308,
+      7223820926,
+      7223820931,
+      6788519433,
+      1737956714,
+      13069240839,
+      13315013459,
+      122627100,
+      13069240840
+    ],
+    "tags": {
+      "name": "Flower District",
+      "place": "neighbourhood",
+      "website": "https://laflowerdistrict.com"
+    }
+  },
+  {
+    "type": "way",
+    "id": 778092634,
+    "center": {
+      "lat": 34.0430791,
+      "lon": -118.3328261
+    },
+    "nodes": [
+      7261845875,
+      7261845876,
+      6953724218,
+      7261845877,
+      7261845878,
+      2155601328,
+      7261845879,
+      7261845880,
+      2155601327,
+      10712277616,
+      7261845881,
+      7261845882,
+      2155601326,
+      7261845883,
+      7261845884,
+      7261865985,
+      123633183,
+      7261865986,
+      7261865987,
+      7261845875
+    ],
+    "tags": {
+      "area": "yes",
+      "name": "Lafayette Park Square",
+      "neighborhood": "residential",
+      "note": "Gated community of Lafayette Park Square",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 818300845,
+    "center": {
+      "lat": 34.0680365,
+      "lon": -118.1703375
+    },
+    "nodes": [
+      7642270328,
+      7642270327,
+      6802283143,
+      6802283146,
+      6802283148,
+      6802283147,
+      6816396453,
+      6802283141,
+      6802283149,
+      6816396452,
+      6802283150,
+      6816396451,
+      6802283151,
+      6802283152,
+      6816396450,
+      7642270304,
+      7642270303,
+      7642270305,
+      7642270302,
+      7642270301,
+      6802283153,
+      7642270300,
+      7642270299,
+      7642270298,
+      7642270297,
+      7642270296,
+      7642270295,
+      7642270294,
+      7642270293,
+      7642270292,
+      7642270291,
+      7642270290,
+      6816396449,
+      6802283154,
+      2277280639,
+      6802283139,
+      6802283137,
+      7639014111,
+      7642270289,
+      7642045109,
+      7642270287,
+      7642270288,
+      6802283114,
+      6802283136,
+      6802283115,
+      6802283116,
+      6802283117,
+      6802283118,
+      6802283119,
+      6802283120,
+      6802283121,
+      6802283135,
+      7639014109,
+      6802283123,
+      6802283124,
+      6802283125,
+      7642255084,
+      7642255083,
+      7642255082,
+      6802283127,
+      7642255081,
+      6802283128,
+      6802283129,
+      6802283130,
+      6802283131,
+      6802283132,
+      2919732431,
+      2919732432,
+      7642270366,
+      6888365689,
+      2919732434,
+      2919732424,
+      2919732423,
+      2919732422,
+      7642270333,
+      6370266054,
+      2919732420,
+      2919732417,
+      6428231713,
+      7642270346,
+      7642270345,
+      7642270352,
+      7642270354,
+      7642270356,
+      7642270357,
+      7642270359,
+      7642270360,
+      7642270363,
+      7642270364,
+      6816396461,
+      6816396459,
+      6816396458,
+      6816396457,
+      7642270365,
+      4021108201,
+      4702380430,
+      7642270306,
+      7642270307,
+      7642270309,
+      7642270311,
+      7642270314,
+      7642270315,
+      7642270316,
+      7642270374,
+      7642270310,
+      7642270375,
+      7642270376,
+      7642270378,
+      7642270377,
+      7642270379,
+      7642270380,
+      7642270381,
+      7642270382,
+      7642270328
+    ],
+    "tags": {
+      "name": "University Hills",
+      "place": "neighbourhood",
+      "wikidata": "Q4400835",
+      "wikipedia": "en:University Hills, Los Angeles"
+    }
+  },
+  {
+    "type": "way",
+    "id": 908593722,
+    "center": {
+      "lat": 34.2351418,
+      "lon": -118.4931811
+    },
+    "nodes": [
+      8436473173,
+      10168234371,
+      4269351147,
+      4269351146,
+      8436473174,
+      8436473175,
+      8436473176,
+      8436473177,
+      8436473178,
+      8436473179,
+      8436473180,
+      8436473181,
+      8436473173
+    ],
+    "tags": {
+      "name": "Nordhurst Community",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 969622930,
+    "center": {
+      "lat": 34.0817532,
+      "lon": -118.1505535
+    },
+    "nodes": [
+      27059064,
+      13027798819,
+      11806693308,
+      8972730191,
+      8972730192,
+      8972730193,
+      8972730194,
+      8972730195,
+      8972730197,
+      8972730198,
+      936119331,
+      8972730196,
+      11806693310,
+      27059064
+    ],
+    "tags": {
+      "name": "The Alhambra",
+      "place": "neighbourhood",
+      "website": "https://www.thevillagesalhambra.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1102680834,
+    "center": {
+      "lat": 34.103402,
+      "lon": -118.334142
+    },
+    "nodes": [
+      9480256301,
+      1718456617,
+      1902218540,
+      3779839961,
+      59830496,
+      20842294,
+      349201593,
+      6405244698,
+      20842296,
+      349203354,
+      349203358,
+      349203365,
+      122623595,
+      9480256301
+    ],
+    "tags": {
+      "name": "Yucca Corridor",
+      "place": "neighbourhood",
+      "wikidata": "Q1466308",
+      "wikipedia": "en:Yucca Corridor, Los Angeles"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1152568770,
+    "center": {
+      "lat": 34.1409347,
+      "lon": -118.3998493
+    },
+    "nodes": [
+      10720263249,
+      10720263250,
+      10720263293,
+      10720263292,
+      10720263294,
+      10720263295,
+      10720263251,
+      10720263252,
+      10720263296,
+      9609920832,
+      9609920831,
+      10720263508,
+      10720263253,
+      10720263254,
+      10720263255,
+      10720263303,
+      10720263507,
+      10720263506,
+      10720263302,
+      10720263505,
+      10720263304,
+      10720263301,
+      10720263300,
+      10720263299,
+      10720263298,
+      10720263297,
+      10720263256,
+      10720263257,
+      10720263258,
+      10720263259,
+      10720263260,
+      10720263261,
+      10720263262,
+      10720263263,
+      10720263264,
+      10720263265,
+      10720263266,
+      10720263267,
+      10720263268,
+      10720263269,
+      10720263270,
+      10720263271,
+      10720263272,
+      10720263273,
+      10720263274,
+      10720263275,
+      10720263276,
+      10720263277,
+      10720263278,
+      10720263279,
+      10720263280,
+      10720263281,
+      10720263282,
+      10720263283,
+      10720263284,
+      10720263285,
+      10720263286,
+      10720263287,
+      10720263288,
+      10720263289,
+      10720263290,
+      10720263291,
+      10720263249
+    ],
+    "tags": {
+      "name": "Silver Triangle",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1185532059,
+    "center": {
+      "lat": 34.1847531,
+      "lon": -118.4698556
+    },
+    "nodes": [
+      11012502921,
+      11012502916,
+      11012502917,
+      11012502918,
+      11012502919,
+      11012502920,
+      11012502921
+    ],
+    "tags": {
+      "alt_name": "Cameron Woods Estates Residential Historic District",
+      "name": "Cameron Woods",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1192690951,
+    "center": {
+      "lat": 34.2933171,
+      "lon": -118.4972795
+    },
+    "nodes": [
+      2591814855,
+      1113579755,
+      1113580101,
+      1113579403,
+      1113579629,
+      1113580641,
+      1113580914,
+      1113580301,
+      1113580574,
+      1113579936,
+      1113580243,
+      1113579547,
+      1113579837,
+      1113580823,
+      1113579468,
+      1113580466,
+      1113580712,
+      1113580153,
+      1113580371,
+      1113579691,
+      1113580013,
+      1113579585,
+      1113580603,
+      1113580869,
+      1113580274,
+      1113580533,
+      1113579888,
+      1113580209,
+      1113579507,
+      1113579759,
+      1113580780,
+      1113579428,
+      1113580433,
+      1113580661,
+      1113580109,
+      1113580315,
+      4721322532,
+      1113580458,
+      1113580681,
+      1113580124,
+      1113580347,
+      1113580784,
+      1113580211,
+      4721322507,
+      4721322506,
+      4721322505,
+      4721322504,
+      4721322503,
+      4721322502,
+      4721322501,
+      4721322500,
+      4721322499,
+      4721322498,
+      4721322497,
+      4721322496,
+      4721322495,
+      4721322494,
+      4721322493,
+      4721322492,
+      4721322508,
+      4721322512,
+      4721322513,
+      4721322514,
+      4721322515,
+      4721322516,
+      4721322517,
+      4721322518,
+      4721322519,
+      4721322520,
+      4721322521,
+      4721322522,
+      4721322523,
+      4721322524,
+      4721322525,
+      11071481852,
+      11071481853,
+      11071481854,
+      11053869708,
+      11071481855,
+      11071481856,
+      11071481857,
+      11071481858,
+      11071481859,
+      11071481860,
+      11071481861,
+      11071481862,
+      11071481863,
+      11071481864,
+      11071481865,
+      11071481866,
+      11071481867,
+      11071481868,
+      11071481869,
+      11071481870,
+      11071481871,
+      11071481872,
+      11071481873,
+      11071481874,
+      11071481875,
+      11071481876,
+      1113580168,
+      1113580704,
+      11071481877,
+      11071481878,
+      11071481879,
+      11071481880,
+      11071481881,
+      11071481882,
+      11071481883,
+      11071481884,
+      11071481885,
+      11071481886,
+      11071481887,
+      11071481888,
+      11071481889,
+      11071481890,
+      11071481891,
+      11071481892,
+      11071481893,
+      11071481894,
+      11071481895,
+      11071481896,
+      11071481897,
+      11071481898,
+      11071481899,
+      11071481900,
+      11071481901,
+      11071481902,
+      11071481903,
+      11071481904,
+      11071505005,
+      11071505006,
+      11071505007,
+      11071505008,
+      11071505009,
+      11071505010,
+      11071505011,
+      11071505012,
+      11071505013,
+      11071505014,
+      11071505015,
+      11071505016,
+      11071505017,
+      11071505018,
+      11071505019,
+      8487502215,
+      8487502216,
+      8487502197,
+      8487502198,
+      11071505020,
+      8487502200,
+      8487502201,
+      8487502202,
+      8487502203,
+      8487502204,
+      8487502205,
+      8487502206,
+      8487502207,
+      8487502208,
+      8487512971,
+      11071505021,
+      8487512969,
+      8487512968,
+      8487512967,
+      8487512966,
+      8487512965,
+      8487512964,
+      8487512963,
+      8487512962,
+      8487512972,
+      8487512973,
+      8487512961,
+      8487512960,
+      4721392792,
+      1485464619,
+      1485464504,
+      1485464476,
+      1485464379,
+      1485464314,
+      1485464210,
+      1485463887,
+      11071505022,
+      11071505023,
+      2591814857,
+      2591814855
+    ],
+    "tags": {
+      "name": "Knollwood Country Club Estates",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1196070895,
+    "center": {
+      "lat": 33.9869341,
+      "lon": -118.4484188
+    },
+    "nodes": [
+      373568344,
+      9901439604,
+      9901439605,
+      9901439600,
+      9901439601,
+      11099452091,
+      11099452092,
+      11099452093,
+      11099452094,
+      11099452095,
+      9901486738,
+      11099452096,
+      441916887,
+      6766073837,
+      4808419240,
+      4009620237,
+      6957527951,
+      7492685619,
+      7128040627,
+      7492685630,
+      6755391200,
+      7492685631,
+      10253318678,
+      1935582259,
+      4009630532,
+      6787567583,
+      8370376090,
+      8370376083,
+      441916889,
+      8370376094,
+      5433911238,
+      10253318676,
+      122925164,
+      13037183000,
+      5697672074,
+      5697672071,
+      3860594601,
+      3860594599,
+      3860594598,
+      5684791292,
+      5684791291,
+      3860594595,
+      9211238414,
+      3860594592,
+      11099452097,
+      9881896522,
+      11099452098,
+      3382137751,
+      11099452099,
+      7597235978,
+      3382137752,
+      373568344
+    ],
+    "tags": {
+      "name": "Golden Triangle",
+      "note": "This neighborhood has a Marina del Rey postal address, but is part of the city of Los Angeles.",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1214442433,
+    "center": {
+      "lat": 34.1451742,
+      "lon": -118.3599389
+    },
+    "nodes": [
+      11252074568,
+      11252074569,
+      11252074570,
+      11252074571,
+      11252074572,
+      11252074573,
+      11252074574,
+      344074910,
+      11252074575,
+      344074912,
+      11252074576,
+      11252074578,
+      11252074577,
+      11252074568
+    ],
+    "tags": {
+      "name": "Toluca Estates",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1283029449,
+    "center": {
+      "lat": 33.9507871,
+      "lon": -118.139416
+    },
+    "nodes": [
+      11905325418,
+      11905325437,
+      11905325434,
+      11905579266,
+      11910904611,
+      11910904606,
+      11910904605,
+      11910904604,
+      11910904574,
+      11910904577,
+      11910904626,
+      11910904621,
+      11905325419,
+      11905325420,
+      11910904622,
+      11905325427,
+      11910904654,
+      11905325426,
+      11905325429,
+      11910904667,
+      11905325428,
+      11905325430,
+      11905325421,
+      11905325432,
+      11905325431,
+      11905325433,
+      11905325422,
+      11905325447,
+      11910904701,
+      10839866630,
+      11905325448,
+      11910879181,
+      11905325449,
+      11910879178,
+      10839866631,
+      10837450849,
+      10837450850,
+      10837450830,
+      10837450833,
+      11905325423,
+      11905325446,
+      11905325444,
+      11905325445,
+      11905325424,
+      10837450835,
+      10837450838,
+      10837450819,
+      10837450813,
+      11905579135,
+      11905325440,
+      11905325443,
+      11905325425,
+      11905325442,
+      11905325441,
+      11905579136,
+      10839410499,
+      10839410498,
+      11905579158,
+      11905579160,
+      11905553446,
+      11905553447,
+      10837662162,
+      10837662161,
+      11905325439,
+      11905553425,
+      11905553426,
+      11905579188,
+      11905579190,
+      11905325438,
+      11905553418,
+      11905553417,
+      11905553416,
+      11905579191,
+      11905553398,
+      11905553399,
+      11905579201,
+      11905579203,
+      11905579204,
+      11905579212,
+      11905579223,
+      11905553394,
+      11905553395,
+      11905579226,
+      11905579227,
+      11905579233,
+      11905579230,
+      11905579235,
+      11905579246,
+      11905579247,
+      11905325435,
+      11905325436,
+      11905325418
+    ],
+    "tags": {
+      "name": "Orange Estates",
+      "note": "Name taken from city-installed street signs",
+      "place": "neighbourhood",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1317154724,
+    "center": {
+      "lat": 34.0871474,
+      "lon": -118.3041022
+    },
+    "nodes": [
+      12190159379,
+      12190159380,
+      9902077916,
+      12190159381,
+      12190159382,
+      12190159383,
+      12190159384,
+      12190159385,
+      2117233699,
+      415524921,
+      12190203305,
+      415524920,
+      12190159386,
+      12190159387,
+      12190159388,
+      12190159389,
+      12190159390,
+      12190159391,
+      12190159392,
+      12190159393,
+      13034285139,
+      13034148247,
+      13034285130,
+      13034285129,
+      12190159394,
+      12190159395,
+      12190159396,
+      12190159397,
+      12190159398,
+      12190159399,
+      12190159400,
+      12190203301,
+      12190203302,
+      12190203303,
+      12190203304,
+      12190159379
+    ],
+    "tags": {
+      "name": "Melrose Hill",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1317154725,
+    "center": {
+      "lat": 34.0849232,
+      "lon": -118.3064471
+    },
+    "nodes": [
+      12190203306,
+      12190203307,
+      12190203317,
+      12190203308,
+      12190203309,
+      12190203310,
+      12190203311,
+      12190203312,
+      12190203313,
+      12190203314,
+      12190203315,
+      12190203316,
+      12190203306
+    ],
+    "tags": {
+      "name": "Melrose Hill Historic Preservation Overlay Zone",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1358965771,
+    "center": {
+      "lat": 34.112529,
+      "lon": -118.3291349
+    },
+    "nodes": [
+      8465062925,
+      8465062924,
+      9974784498,
+      9974784497,
+      403595626,
+      365787659,
+      2351811830,
+      1718456621,
+      1718456649,
+      1718456625,
+      1718456638,
+      1718456631,
+      1718456623,
+      1718456618,
+      59830596,
+      1718456646,
+      7400199697,
+      1718456665,
+      1718456637,
+      240452352,
+      1718456615,
+      1718456698,
+      1718456627,
+      1718456659,
+      21478364,
+      122848940,
+      1718456640,
+      2354303395,
+      1718456654,
+      8411403534,
+      280321604,
+      59830496,
+      280314774,
+      280314945,
+      13070875088,
+      122626511,
+      12578172245,
+      4269267995,
+      12578172244,
+      12578172238,
+      12578172248,
+      12578172247,
+      12578172249,
+      12578172250,
+      12578172246,
+      12578172243,
+      12578172251,
+      5727073677,
+      12578172239,
+      12578172255,
+      12578172253,
+      12578172252,
+      12578172242,
+      8465063008,
+      7342356308,
+      12578172241,
+      7342356316,
+      9027792170,
+      7342356331,
+      7342356334,
+      1543697963,
+      8465062948,
+      12578172240,
+      8465062946,
+      8465062945,
+      8465062944,
+      8465062943,
+      8465062942,
+      8465062941,
+      8465062938,
+      8465062937,
+      8465062936,
+      8465062935,
+      8465062934,
+      8465062933,
+      8465062932,
+      8465062931,
+      8465062930,
+      8465062929,
+      8465062928,
+      8465062927,
+      8465062926,
+      8465062925
+    ],
+    "tags": {
+      "name": "Hollywood Dell",
+      "place": "neighbourhood",
+      "wikidata": "Q5882678",
+      "wikipedia": "en:Hollywood Dell, Los Angeles"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1360189658,
+    "center": {
+      "lat": 33.9585558,
+      "lon": -118.3939855
+    },
+    "nodes": [
+      9903806269,
+      12591275783,
+      12090885135,
+      12152771448,
+      9903806282,
+      9903806264,
+      9903806265,
+      9903806266,
+      9903806267,
+      9903806268,
+      12090885147,
+      9903806269
+    ],
+    "tags": {
+      "description": "A post-WWII neighborhood commercial center with low-scale buildings, consistent storefronts, and rear auto accommodations. The district reflects commercial development from the post-WWII era, serving growing residential communities in Westchester.",
+      "historic": "yes",
+      "landuse": "retail",
+      "name": "Westchester Triangle",
+      "official_name": "Westchester Triangle Commercial Historic District",
+      "place": "neighbourhood",
+      "website": "https://hpla.lacity.org/report/ea97fba7-1316-4ea7-ba07-0fefdd66d01d"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1434528821,
+    "center": {
+      "lat": 34.0569436,
+      "lon": -118.3643655
+    },
+    "nodes": [
+      13185361174,
+      13185361176,
+      13185361177,
+      612159509,
+      13185361178,
+      13185361179,
+      13185361180,
+      13185361174
+    ],
+    "tags": {
+      "name": "Little Ethiopia",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9670944,
+    "center": {
+      "lat": 33.8939045,
+      "lon": -118.4042405
+    },
+    "members": [
+      {
+        "type": "node",
+        "ref": 6534258102,
+        "role": "label"
+      },
+      {
+        "type": "way",
+        "ref": 1307596076,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1307596079,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 695904881,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 695904883,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1307596077,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "admin_level": "10",
+      "board_type": "suburb",
+      "boundary": "administrative",
+      "name": "Tree Section",
+      "place": "suburb",
+      "type": "boundary"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10953283,
+    "center": {
+      "lat": 34.035166,
+      "lon": -118.1596349
+    },
+    "members": [
+      {
+        "type": "node",
+        "ref": 150976852,
+        "role": "label"
+      },
+      {
+        "type": "way",
+        "ref": 33172179,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 33102373,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 844263012,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 263567793,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 262762401,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 787382997,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "boundary": "place",
+      "name": "East Los Angeles",
+      "name:es": "Este de Los \u00c1ngeles",
+      "place": "suburb",
+      "type": "boundary",
+      "wikidata": "Q690991",
+      "wikipedia": "es:Este de Los \u00c1ngeles"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14213712,
+    "center": {
+      "lat": 34.3051615,
+      "lon": -118.4732623
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1066304083,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 9791720561,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "name": "Sylmar Acres",
+      "note": "Subdivided as Sylmar Acres in 1923",
+      "place": "neighbourhood",
+      "ref:url": "https://davidrumsey.georeferencer.com/maps/b348d3f7-b4f3-5842-a472-faf1fe7058a1/",
+      "start_date": "1923",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14315058,
+    "center": {
+      "lat": 34.2940565,
+      "lon": -118.4493628
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1075274828,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 9861837589,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "name": "Village Green",
+      "place": "neighbourhood",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14418135,
+    "center": {
+      "lat": 34.0452143,
+      "lon": -118.2813146
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1083433343,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 9928862917,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "ele": "67",
+      "historic": "district",
+      "name": "Alvarado Terrace Historic District",
+      "place": "neighbourhood",
+      "ref:nrhp": "84000783",
+      "source:url": "https://npgallery.nps.gov/AssetDetail/NRIS/84000783",
+      "type": "multipolygon",
+      "wikidata": "Q4737882",
+      "wikipedia": "en:Alvarado Terrace Historic District"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 16371842,
+    "center": {
+      "lat": 34.2828512,
+      "lon": -118.4415545
+    },
+    "members": [
+      {
+        "type": "node",
+        "ref": 11214982063,
+        "role": "label"
+      },
+      {
+        "type": "way",
+        "ref": 1210246913,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "name": "San Fernando Mall",
+      "place": "neighbourhood",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 17193423,
+    "center": {
+      "lat": 34.295154,
+      "lon": -118.3784155
+    },
+    "members": [
+      {
+        "type": "node",
+        "ref": 11612614008,
+        "role": "label"
+      },
+      {
+        "type": "way",
+        "ref": 1249384362,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "description": "El Merrie Del, a tract of homes planned out to be used for resorts in the 1920s.",
+      "ele": "433",
+      "gnis:feature_id": "1669961",
+      "name": "El Merrie Del",
+      "place": "neighbourhood",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 17303302,
+    "center": {
+      "lat": 34.1018957,
+      "lon": -118.3049162
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1257353946,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 6806550834,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "name": "Thai Town",
+      "note": "According to City motion: \"Area of Hollywood Boulevard between Normandie Avenue and Western Avenue (...) designated as 'Thai Town'\"",
+      "place": "neighbourhood",
+      "source": "LA City Clerk",
+      "source:url": "https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?fa=ccfi.viewrecord&cfnumber=99-2007",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 17307354,
+    "center": {
+      "lat": 34.1286081,
+      "lon": -118.2985312
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1257720558,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720559,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720560,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720561,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 202493004,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720564,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720565,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720566,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720567,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720570,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 1257720571,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 790211781,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 787842207,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Los Feliz Neighborhood Council District",
+      "place": "quarter",
+      "source:url": "https://empowerla.org/city-map/",
+      "type": "boundary"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 17405687,
+    "center": {
+      "lat": 34.0690455,
+      "lon": -118.2954251
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1267646033,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 11773258550,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "name": "Little Bangladesh",
+      "place": "neighbourhood",
+      "source": "City of Los Angeles",
+      "source:url": "https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?fa=ccfi.viewrecord&cfnumber=08-2885",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 18114621,
+    "center": {
+      "lat": 34.0564238,
+      "lon": -118.2391492
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 1320188917,
+        "role": "outer"
+      },
+      {
+        "type": "node",
+        "ref": 10845318626,
+        "role": "label"
+      }
+    ],
+    "tags": {
+      "historic": "district",
+      "name": "Pueblo de Los \u00c1ngeles Historical Monument",
+      "place": "neighbourhood",
+      "type": "multipolygon",
+      "wikidata": "Q6682294"
+    }
+  }
+]

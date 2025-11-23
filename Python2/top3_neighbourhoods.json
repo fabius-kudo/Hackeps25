@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Playa Vista",
+    "lat": 33.9760102,
+    "lon": -118.4181654,
+    "parks": 15
+  },
+  {
+    "name": "The Flats",
+    "lat": 34.076366,
+    "lon": -118.4076933,
+    "parks": 13
+  },
+  {
+    "name": "Civic Center",
+    "lat": 34.0557834,
+    "lon": -118.2449854,
+    "parks": 11
+  }
+]

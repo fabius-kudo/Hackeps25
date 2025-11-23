@@ -14,7 +14,7 @@ public class SafetyFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodCrimes> crimesList = mapper.readValue(
-                    new File("crimes.json"),
+                    new File("Python/JSON/crimes.json"),
                     new TypeReference<List<NeighborhoodCrimes>>() {}
             );
 

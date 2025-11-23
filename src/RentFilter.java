@@ -14,7 +14,7 @@ public class NatureFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodParks> rentList = mapper.readValue(
-                    new File("rent.json"),
+                    new File("Python/JSON/rent.json"),
                     new TypeReference<List<NeighborhoodRent>>() {}
             );
 

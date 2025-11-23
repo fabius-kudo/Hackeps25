@@ -14,7 +14,7 @@ public class LivelinessFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodLiveliness> livelinessList = mapper.readValue(
-                    new File("liveliness.json"),
+                    new File("Python/JSON/liveliness.json"),
                     new TypeReference<List<NeighborhoodLiveliness>>() {}
             );
 

@@ -6,6 +6,8 @@ import java.util.List;
 
 class NeighborhoodParks {
     public String name;
+    public long lat;
+    public long lon;
     public int parks;
 }
 
@@ -14,7 +16,7 @@ public class NatureFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodParks> parksList = mapper.readValue(
-                    new File("parks.json"),
+                    new File("Python/JSON/parks.json"),
                     new TypeReference<List<NeighborhoodParks>>() {}
             );
 

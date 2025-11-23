@@ -14,7 +14,7 @@ public class TransportFilter {
         try {
             ObjectMapper mapper = new ObjectMapper();
             List<NeighborhoodTransport> parksList = mapper.readValue(
-                    new File("transport.json"),
+                    new File("Python/JSON/publicTransport.json"),
                     new TypeReference<List<NeighborhoodTransport>>() {}
             );
 

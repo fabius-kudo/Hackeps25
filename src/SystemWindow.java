@@ -120,11 +120,14 @@ public class SystemWindow {
                         "Nature: " + bestNeighborhood.nature + "\n" +
                         "Rent: " + bestNeighborhood.rent;
 
+                ImageIcon starIcon = new ImageIcon("src/world_star-0.png");
+
                 JOptionPane.showMessageDialog(
                         frame,
                         message,
                         "Your Best Neighborhood",
-                        JOptionPane.INFORMATION_MESSAGE
+                        JOptionPane.INFORMATION_MESSAGE,
+                        starIcon
                 );
             } else {
                 JOptionPane.showMessageDialog(
@@ -134,16 +137,6 @@ public class SystemWindow {
                         JOptionPane.ERROR_MESSAGE
                 );
             }
-
-            ImageIcon starIcon = new ImageIcon("src/world_star-0.png");
-            // Calculates best neighborhood
-            JOptionPane.showMessageDialog(
-                    frame,
-                    "(Here we would calculate the best neighborhood.)",
-                    "Your Preferences",
-                    JOptionPane.INFORMATION_MESSAGE,
-                    starIcon
-            );
 
         });
 
